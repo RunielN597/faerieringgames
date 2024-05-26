@@ -1,5 +1,5 @@
 baseURL: https://www.fairieringgames.netlify.app
-title: fairieringgames
+title: Fairie Ring Games
 theme: hugo-coder
 languageCode: en
 defaultContentLanguage: en
@@ -32,7 +32,11 @@ params:
     - name: Trello
       icon: fa-brands fa-trello
       weight: 1
-      url: https://github.com/johndoe/
+      url: https://faerieringgames.netlify.app/trello
+    - name: Trello
+      icon: fa-brands fa-discord
+      weight: 1
+      url: https://faerieringgames.netlify.app/discord
 taxonomies:
   category: categories
   series: series
