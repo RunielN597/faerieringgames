@@ -16,7 +16,6 @@ params:
   keywords: go,design,card
   info:
     - Abstract Strategy Games
-    - Magician
   avatarURL: images/avatar.jpg
   dateFormat: January 2, 2006
   since: 2024
