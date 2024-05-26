@@ -8,6 +8,7 @@ content/current_writeups/current_writeups_lightweight_site.lnk
 .netlify
 *.docx
 public/*
+resources/
 !public/_redirects
 *.afdesign~lock~
 *.afpub~lock*
