@@ -1,7 +1,17 @@
-
 .hugo_build.lock
-
+node_modules/
+package-lock.json
+package.json 
 # Local Netlify folder
+content/current_writeups/modules_to_ingest.lnk
+content/current_writeups/current_writeups_lightweight_site.lnk
 .netlify
+*.docx
+public/*
+!public/_redirects
+*.afdesign~lock~
+*.afpub~lock*
 *.afpub~lock~
 *.afphoto~lock~
+.gitattributes~
+*.rpp-bak
