@@ -35,5 +35,6 @@ A Leyline Path is defined as one of the shortest paths between Forest Cards, mov
 Then, the player removes Energy Cubes from the card if there are cubes of both colors on it; remove one Light and one Dark cube from the card, until there are only cubes of a single color remaining on the card. 
 
 **Acquire Forest Cards for Splendor:** Then, any Forest Cards that have a number of cubes of that player’s color equal to or greater than its Vigor value are then removed from the grid and placed in front of that player. The cards are then replaced in the order the acquiring player chooses, with cards from the deck. The player then places a number of Energy Cubes equal to the Forest Card's printed Splendor value back into their supply, keeping the rest for Overchanneling.
-
 **Ending the Game:** Play continues until one player acquires at least seven Forest Cards. This triggers the end of the game; the other player gets one additional turn, and then the game ends. Whoever has the most Splendor from acquiring Forest Cards after taking into account Overchanneling wins the game, and in case of a tie, whoever acquired the fewest Forest Cards wins the game. If there is still a tie, whoever went second wins.
+
+[pdf](/games/the_channeling/the_channeling_rules.pdf)
