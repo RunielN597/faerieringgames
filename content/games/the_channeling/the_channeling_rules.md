@@ -18,7 +18,7 @@ title: The Channeling Rules
 
 Once a player completes the 4th step in their turn, play passes to the other player. 
 
-**Forest Cards:**  Each Forest Card is either a Faerie Ring or Stone Circle, with two values on the card. The top-left value in the diamond is the card’s Vigor value, and the bottom-right value in the circle is the card's Splendor value. Faeire Rings need four or five Energy Cubes of a player's color to acquire it, and Stone Circles need six or seven Energy Cubes. Each Forest Card has a varying number of Splendor, however.
+**Forest Cards:** Each Forest Card is either a Faerie Ring or Stone Circle, with two values on the card. The top-left value in the diamond is the card’s Vigor value, and the bottom-right value in the circle is the card's Splendor value. Faeire Rings need four or five Energy Cubes of a player's color to acquire it, and Stone Circles need six or seven Energy Cubes. Each Forest Card has a varying number of Splendor, however.
 
 A Leyline Path is defined as one of the shortest paths between Forest Cards, moving horizontally and vertically, that connects the player’s two Druid Tokens. A player may not draw a path that is longer than necessary, or draw the path diagonally. 
 
@@ -26,7 +26,7 @@ A Leyline Path is defined as one of the shortest paths between Forest Cards, mov
 
 ### The Steps of a Turn in Detail
 
-**Play a Glyph Card:**  The player selects a Glyph Card from their hand and lays it in front of them on the table. If this is their eighth and final Glyph Card, the player then takes all of their cards back into their hand for the next turn.
+**Play a Glyph Card:** The player selects a Glyph Card from their hand and lays it in front of them on the table. If this is their eighth and final Glyph Card, the player then takes all of their cards back into their hand for the next turn.
 
 **Move a Druid Token:** The player then moves a Druid Token from one Forest Card to a different Forest Card in the row or column of cards indicated by the Glyph Card they just played, that does not contain another Druid Token, of either color.
 

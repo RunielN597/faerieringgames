@@ -2,6 +2,7 @@
 title: games
 ---
 
-[ley_of_the_land](./ley_of_the_land)
+[The Channeling](./the_channeling)
 
-[the_channeling](./the_channeling)
+[Ley of The Land](./ley_of_the_land)
+
