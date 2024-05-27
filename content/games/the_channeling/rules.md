@@ -1,4 +1,4 @@
 ---
-title: cards
+title: rules
 ---
 rules

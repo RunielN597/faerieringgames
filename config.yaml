@@ -1,5 +1,5 @@
 baseURL: https://faerieringgames.netlify.app
-title: Fairie Ring Games
+title: Faerie ring games
 theme: hugo-coder
 languageCode: en
 defaultContentLanguage: en
@@ -11,8 +11,8 @@ markup:
   highlight:
     noClasses: false
 params:
-  author: Fairie Ring Games
-  description: Farie Ring Games
+  author: Faerie Ring Games
+  description: Faerie Ring Games
   keywords: go,design,card
   info:
     - Abstract Strategy Games

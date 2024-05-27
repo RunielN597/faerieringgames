@@ -2,14 +2,6 @@
 title: cards
 ---
 
-|      |      |      |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-
-
-
 |Image|Acquire|Splendor|quantity|
 | ---- | ---- | ---- |---|
 |Mushrooms.png|4|3||
