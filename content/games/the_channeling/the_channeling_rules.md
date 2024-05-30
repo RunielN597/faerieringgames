@@ -1,6 +1,7 @@
 ---
 title: The Channeling Rules
 ---
+
 **A Game for Two Players**
 
 **Components:** 30 Magic Circle  Cards, 24 Glyph Cards (3 sets of 8 cards), 4 Druid Tokens (2 in each color), 100 Light and Dark Energy Cubes (50 of each color)
