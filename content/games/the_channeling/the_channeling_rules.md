@@ -7,7 +7,9 @@ title: The Channeling Rules
 
 **Object:** Have more Splendor than the opponent when the game ends.
 
-**Setup:** Players choose randomly who will play as Light, and who as Dark. Give each player a set of 8 different Glyph Cards, the two Druid Tokens of their color, and the 50 Energy Cubes of their color. Shuffle the deck of Magic Circle Cards. Then, place a different Glyph Card in the four spaces below and to the right of the deck, using the remaining set of Glyph Cards. Draw 16 Magic Circle Cards, and place them below and to the right of the Glyph Cards, forming an inner grid. Place the four Druid Tokens on the four center cards of this grid, with tokens of each color diagonally across from each other. Play begins with Light.
+**Setup:** Players choose randomly who will play as Light, and who as Dark. Give each player a set of 8 different Glyph Cards, the two Druid Tokens of their color, and the 50 Energy Cubes of their color. Shuffle the deck of Magic Circle Cards. Then, place a different Glyph Card in the four spaces below and to the right of the deck, using the remaining set of Glyph Cards. Draw 16 Magic Circle Cards, and place them below and to the right of the Glyph Cards, forming an inner grid. Place the four Druid Tokens on the four center cards of this grid, with tokens of each color diagonally across from each other. 
+
+Play begins with Light.
 
 **Turn Structure:** There are 4 steps to a turn, performed in order:
 
@@ -32,7 +34,7 @@ Once a player completes the 4th step in their turn, play passes to the other pla
 
 **Move a Druid Token:** The player then moves a Druid Token from one Magic Circle Card to a different Magic Circle Card in the row or column of cards indicated by the Glyph Card they just played, that does not contain another Druid Token, of either color.
 
-**Place and remove Energy Cubes on Magic Circle Cards in a Leyline Path:** Starting with the Druid Token the player just moved and ending with the player's second Druid Token, the player places Energy Cubes on cards in a Leyline Path; . 
+**Place and Remove Energy Cubes on Magic Circle Cards in a Leyline Path:** Starting with the Druid Token the player just moved and ending with the player's second Druid Token, the player places Energy Cubes on cards in a Leyline Path. 
 
 Then, the player removes Energy Cubes from the card if there are cubes of both colors on it; remove one Light and one Dark cube from the card, until there are only cubes of a single color remaining on the card. 
 
