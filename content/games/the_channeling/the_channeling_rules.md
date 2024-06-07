@@ -23,7 +23,7 @@ Players choose randomly who will play as Light, and who as Dark. Give each playe
 
 Shuffle the deck of Magic Circle Cards.
 
-Place a different Glyph Card in the four spaces below and to the right of the deck, using the remaining Grey set of Glyph Cards.
+Using the remaining Grey set of Glyph Cards. Place a different Glyph Card in the four spaces below and to the right of the deck of Magic Circle Cards.
 
 Draw 16 Magic Circle Cards, and place them below and to the right of the Glyph Cards, forming an inner 4x4 grid.
 
@@ -35,12 +35,13 @@ Place the four Druid Tokens on the four center cards of this grid, with tokens o
 
 ### Overview
 
-There are 4 steps to a turn, performed in order:
+There are 6 steps to a turn, performed in order:
 
 1. Play a Glyph Card
 2. Move a Druid Token
-3. Place Energy Cubes on Magic Circle Cards in a Leyline Path
-4. Remove Energy Cubes on Magic Circle Cards in a Leyline Path
+3. Choose a Leyline Path and Channel Energy Over it
+3. Place Energy Cubes on Magic Circle Cards along the chosen Leyline Path
+4. Remove Energy Cubes on Magic Circle Cards along the chosen Leyline Path
 5. Acquire Magic Circle Cards for Splendor
 6. Check for Endgame
 
@@ -54,45 +55,69 @@ The player selects a Glyph Card from their hand and lays it in front of them on 
 
 The player moves one Druid Token from one Magic Circle Card to a different Magic Circle Card in the row or column of cards indicated by the Glyph Card they just played, that does not contain a Druid Token, of either color.
 
-### 3 Place Energy Cubes on Magic Circle Cards in a Leyline Path
+### 3 Choose A Leyline Path and Channel Energy Over it
 
-Starting with the Druid Token the player just moved and ending with the player's second Druid Token, the player places Energy Cubes on cards in a Leyline Path.
+Starting with the Druid Token the player just moved and ending with the player's second Druid Token,
 
-### 4 Remove Energy Cubes on Magic Circle Cards in a Leyline Path
+### 3 Place Energy Cubes on Magic Circle Cards along the chosen Leyline Path
 
-The player removes Energy Cubes from the card if there are cubes of both colors on it; remove one Light and one Dark cube from the card, until there are only cubes of a single color remaining on the card.
+The player places Energy Cubes on cards in along the chosen Leyline Path for this turn.
+- 3 Cubes on the Magic Circle Card that has the Druid Token that moved this turn.
+- 2 Cubes on the Magic Circle Card with the druid that was stationary this turn. 
+- 1 Cubes on each Card Along the chosen Leyline Path.
+
+### 4 Remove Energy Cubes on Magic Circle Cards along the chosen Leyline Path
+
+The player removes Energy Cubes from Forest Card if there are Energy Cubes of both colors on it. Remove one Light and one Dark Energy Cube from the card, until there are only Energy Cubes of a single color remaining on the card.
 
 ### 5 Acquire Magic Circle Cards for Splendor
 
-Any Magic Circle Cards that have a number of cubes of that player’s color equal to or greater than its Vigor value are removed from the grid and placed in front of that player. The cards are then replaced in the order the acquiring player chooses, with cards from the deck. The player then places a number of Energy Cubes equal to the Magic Carcle Card's Splendor value back into their supply, keeping the rest as a penalty due to Overchanneling.
+Any Magic Circle Cards that have a number of Energy Cubes of that player’s color equal to or greater than its Vigor value are removed from the grid and placed in front of that player.
+
+The cards are then replaced in the order the acquiring player chooses, with cards from the Magic Circle Card Deck.
+
+The player then places a number of Energy Cubes equal to the Magic Carcle Card's Splendor value back into their supply, keeping the rest as Overchanneling Cubes.
 
 ### 6 Check for Endgame
 
-Play continues until one player acquires at least seven Magic Circle Cards. This triggers the end of the game; the other player gets one additional turn, and then the game ends. Whoever has the most Splendor from acquiring Magic Circle Cards after taking into account Overchanneling Cubes wins the game, and in case of a tie, whoever acquired the fewest Magic Circle Cards wins the game. If there is still a tie, whoever went second wins.
+Play continues until one player acquires at least seven Magic Circle Cards. This triggers the end of the game; the other player gets one additional turn, and then the game ends. Whoever has the most Splendor from acquiring Magic Circle Cards after taking into account Overchanneling Cubes wins the game.
+
+in case of a tie..
+- whoever acquired the fewest Magic Circle Cards wins the game. 
+- If there is still a tie, whoever went second wins.
 
 ## Game Terms
 
 ### Glyph Cards
 
+
+
 ### Leyline Path
 
-One of the shortest paths of Magic Circle Cards, starting with the Druid Token the player has just moved and ending with the other Druid Token, that only moves horizontally and vertically, and connects the player’s two Druid Tokens. A player may not draw a path that is longer than necessary, or draw the path diagonally. When channeling Energy Cubes along a Leyline Path, the Magic Circle Cards with Druid Tokens will receive additional Energy Cubes which may lead to overchanneling.
+One of the shortest paths of Magic Circle Cards, starting with the Druid Token the player has just moved and ending with the stationary Druid Token, that
+- only moves horizontally and vertically NOT diagonally.
+- connects the player’s two Druid Tokens. When channeling Energy Cubes along a Leyline Path, the Magic Circle Cards with Druid Tokens will receive additional Energy Cubes which may lead to overchanneling.
+- not be longer than necessary.
 
 ### Magic Circle Cards
 
-Each Magic Circle Card has two values on the card. The value made of circles is the card’s Vigor value  and the value made of petals is the card's Splendor value (Used to score). Each Magic Circle Card has a Vigor of four through seven, and Splendor a of four through seven.
+Each Magic Circle Card has two values on the card. The value made of circles is the card’s Vigor value and the value made of petals is the card's Splendor value. Each Magic Circle Card has a Vigor of four through seven, and Splendor a of four through seven.
+
+### Energy Cubes
+
+Placed each turn as part of moving your druids around.
 
 ### Splendor
 
-The number of victory points you get at the end of the game. Represented by petals card's Splendor on a Magic Circle Card.
+The number of victory points you get at the end of the game. Represented by petals on Magic Circle Cards.
 
 ### Vigor
 
-how many cubes must be on a card at the end of the turn in order to claim it. Represented by circles on a Magic Circle Card
+How many Energy Cubes must be on a card at the end of the turn in order to claim it. Represented by circles on Magic Circle Cards.
 
 ## Overchanneling
 
-When a Magic Circle Card is acquired using more Energy Cubes than its Vigor value, the player keeps the excess cubes near the cards as Overchanneling Cubes. Each Overchanneling Cube subtracts one from the player’s score at the end of the game.
+When a Magic Circle Card is acquired using more Energy Cubes than its Vigor value, the player keeps the excess cubes near the cards as Overchanneling Cubes. Each Overchanneling Cube reduces the players Splendor by one at the end of the game.
 
 ## Credits
 
