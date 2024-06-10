@@ -5,7 +5,7 @@ title: The Channeling Rules
 
 ## Components
   - 30 Magic Circle Cards
-  - 24 Glyph Cards (3 sets: Light, Dark, and Grey of 8 cards)
+  - 24 Glyph Cards (3 sets: Light, Dark, and Green of 8 cards)
   - 4 Druid Tokens (2 of Light and Dark)
   - 100 Light and Dark Energy Cubes (50 of Light and Dark)
 
@@ -23,7 +23,7 @@ Players choose randomly who will play as Light, and who as Dark. Give each playe
 
 Shuffle the deck of Magic Circle Cards.
 
-Using the remaining Grey set of Glyph Cards. Place a different Glyph Card in the four spaces below and to the right of the deck of Magic Circle Cards.
+Using the remaining Green set of Glyph Cards. Place a different Glyph Card in the four spaces below and to the right of the deck of Magic Circle Cards.
 
 Draw 16 Magic Circle Cards, and place them below and to the right of the Glyph Cards, forming an inner 4x4 grid.
 
@@ -90,7 +90,7 @@ In case of a tie...
 
 ### Glyph Cards
 
-The grey cards players use to mark the outside of the 4 x 4 grid of Magic Circle Cards, and the cards of each player's color that they use to move their Druid Tokens across the grid. 
+The green cards players use to mark the outside of the 4 x 4 grid of Magic Circle Cards, and the cards of each player's color that they use to move their Druid Tokens across the grid. 
 
 ### Leyline Path
 
