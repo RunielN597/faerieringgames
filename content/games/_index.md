@@ -8,5 +8,5 @@ title: games
 
 [Archdruid](./archdruid)
 
-[ten-point buck](./ten_point_buck)
+[Ten-Point Buck](./ten_point_buck)
 
