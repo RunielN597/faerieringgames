@@ -54,3 +54,15 @@ After all ten tricks in a round have been played, players count how many points 
 ## End of Game
 
 After 5 rounds of play, whoever has the most Antler Points wins. If there is a tie, additional rounds are played until the tie is broken.
+
+## Credits
+
+**Design:** Sam Fragello
+
+**Layout:** Scott Bennett
+
+**Art:** Kathryn Rose, Page Ornamentation in public domain by Marie L. Danforth
+
+**Editing:** Ragnarr Marksen and Scott Bennett
+
+[pdf](/games/the_channeling/the_channeling_rules.pdf)
