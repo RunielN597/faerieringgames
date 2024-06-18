@@ -17,7 +17,7 @@ Have more Splendor than the opponent when the game ends.
 
 Players choose randomly who will play as Light, and who as Dark. Give each player: 
 
-  - One set of 8 different Glyph Cards of their color
+  - One set of 8 different Glyph Cards of their color, that will form their hand
   - Two Druid Tokens of their color
   - One set of 50 Energy Cubes of their color
 
@@ -63,7 +63,7 @@ Starting with the Druid Token the player just moved and ending with the player's
 
 The player places Energy Cubes on cards along the chosen Leyline Path for this turn.
 - 3 Cubes are placed on the Magic Circle Card that has the Druid Token that moved this turn.
-- 2 Cubes are placed on the Magic Circle Card with the druid that was stationary this turn. 
+- 2 Cubes are placed on the Magic Circle Card with the Druid Token that was stationary this turn. 
 - 1 Cube is placed on each additional Magic Circle Card along the chosen Leyline Path.
 
 ### 5 - Remove Energy Cubes on Magic Circle Cards along the chosen Leyline Path
