@@ -7,7 +7,7 @@ title: The Channeling Rules
   - 30 Magic Circle Cards
   - 24 Glyph Cards (3 sets: Light, Dark, and Green of 8 cards)
   - 4 Druid Tokens (2 of Light and Dark)
-  - 100 Light and Dark Energy Cubes (50 of Light and Dark)
+  - 100 Energy Cubes (50 of Light and Dark)
 
 ## Object
 
@@ -29,6 +29,9 @@ Draw 16 Magic Circle Cards, and place them below and to the right of the Glyph C
 
 Place the four Druid Tokens on the four center cards of this grid, with tokens of each color diagonally across from each other.
 
+![A diagram of the set up playspace.](/games/the_channeling/the_channeling_board.png)
+
+
 ## Turn Structure
 
 Play begins with Light.
@@ -39,7 +42,7 @@ There are 7 steps to a turn, performed in order:
 
 1. Play a Glyph Card
 2. Move a Druid Token
-3. Choose a Leyline Path and Channel Energy Over it
+3. Choose a Leyline Path
 4. Place Energy Cubes on Magic Circle Cards along the chosen Leyline Path
 5. Remove Energy Cubes on Magic Circle Cards along the chosen Leyline Path
 6. Acquire Magic Circle Cards for Splendor
@@ -55,9 +58,9 @@ The player selects a Glyph Card from their hand and lays it in front of them on 
 
 The player moves one Druid Token from one Magic Circle Card to a different Magic Circle Card in the row or column of cards indicated by the Glyph Card they just played, that does not contain a Druid Token, of either color.
 
-### 3 - Choose A Leyline Path and Channel Energy Over it
+### 3 - Choose A Leyline Path
 
-Starting with the Druid Token the player just moved and ending with the player's second Druid Token:
+The player chooses a leyline path between the 2 Druid Tokens. Starting with the Druid Token the player just moved and ending with the player's second Druid Token that did not move that turn.
 
 ### 4 - Place Energy Cubes on Magic Circle Cards along the chosen Leyline Path
 
@@ -72,7 +75,7 @@ The player removes Energy Cubes from a Magic Circle Card if there are Energy Cub
 
 ### 6 - Acquire Magic Circle Cards for Splendor
 
-Any Magic Circle Cards that have a number of Energy Cubes of that player’s color equal to or greater than its Vigor value are removed from the grid and placed in front of that player.
+Any Magic Circle Cards that have a number of Energy Cubes of that player's color equal to or greater than its Vigor value are removed from the grid and placed in front of that player.
 
 The cards are then replaced in the order the acquiring player chooses, with cards from the Magic Circle Card Deck.
 
@@ -129,4 +132,8 @@ When a Magic Circle Card is acquired using more Energy Cubes than its Vigor valu
 
 **Editing:** Ragnarr Marksen and Scott Bennett
 
-[pdf](/games/the_channeling/the_channeling_rules.pdf)
+[<i class="fas fa-file-pdf"></i> PDF ](/games/the_channeling/the_channeling_rules.pdf)
+
+<audio controls src="/games/the_channeling/the_channeling_rules.mp3">asdf</audio>
+
+
