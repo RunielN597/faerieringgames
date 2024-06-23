@@ -98,9 +98,12 @@ The green cards players use to mark the outside of the 4 x 4 grid of Magic Circl
 ### Leyline Path
 
 One of the shortest paths of Magic Circle Cards, starting with the Druid Token the player has just moved and ending with the stationary Druid Token, that...
+
 - only moves horizontally and vertically, NOT diagonally.
-- connects the player’s two Druid Tokens. When channeling Energy Cubes along a Leyline Path, the Magic Circle Cards with Druid Tokens will receive additional Energy Cubes, which may lead to Overchanneling.
+- connects the player's two Druid Tokens. 
 - is not longer than necessary.
+
+When channeling Energy Cubes along a Leyline Path, the Magic Circle Cards with Druid Tokens will receive additional Energy Cubes, which may lead to Overchanneling.
 
 ### Magic Circle Cards
 
