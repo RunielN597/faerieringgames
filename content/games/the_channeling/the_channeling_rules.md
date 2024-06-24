@@ -23,7 +23,7 @@ Players choose randomly who will play as Light, and who as Dark. Give each playe
 
 Shuffle the deck of Magic Circle Cards.
 
-Using the remaining Green set of Glyph Cards. Place a different Glyph Card in the four spaces below and to the right of the deck of Magic Circle Cards.
+Shuffle the remaining green set of Glyph Cards. Place a Glyph Card in the four spaces below and to the right of the deck of Magic Circle Cards.
 
 Draw 16 Magic Circle Cards, and place them below and to the right of the Glyph Cards, forming an inner 4x4 grid.
 
@@ -93,7 +93,7 @@ In case of a tie...
 
 ### Glyph Cards
 
-The green cards players use to mark the outside of the 4 x 4 grid of Magic Circle Cards, and the cards of each player's color that they use to move their Druid Tokens across the grid. 
+The green cards players use to mark the outside of the 4 x 4 grid of Magic Circle Cards, and the cards of each player's color that they use to move their Druid Tokens across the grid.
 
 ### Leyline Path
 
@@ -107,7 +107,7 @@ When channeling Energy Cubes along a Leyline Path, the Magic Circle Cards with D
 
 ### Magic Circle Cards
 
-Each Magic Circle Card has two values on the card. The value made of circles is the card’s Vigor value and the value made of petals is the card's Splendor value. Each Magic Circle Card has a Vigor of four through seven, and Splendor of four through seven.
+Each Magic Circle Card has two values on the card. The number of outer circles is the card’s Vigor value and the number of inner petals is the card's Splendor value. Each Magic Circle Card has a Vigor of four through seven, and Splendor of four through seven.
 
 ### Energy Cubes
 
@@ -119,7 +119,7 @@ The number of victory points you get at the end of the game. Represented by peta
 
 ### Vigor
 
-How many Energy Cubes must be on a card at the end of the turn in order to acquire it. Represented by circles on Magic Circle Cards.
+How many Energy Cubes must be on a card at the end of the turn in order to acquire it. Represented by the outer circles on Magic Circle Cards.
 
 ## Overchanneling
 
