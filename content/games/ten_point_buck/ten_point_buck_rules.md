@@ -7,7 +7,7 @@ A Trick-Taking Game for Three to Five Players
 ## Components
 
 - 56 cards, including ten 1s, nine 2s, eight 3s, and so on, down to one 10-point card, the Buck, and also one 0, the Doe.
-- a writing utensil and paper, to keep track of bids and Hunting Points.
+- A writing utensil and paper, to keep track of bids and Hunting Points.
 
 ## Object
 
