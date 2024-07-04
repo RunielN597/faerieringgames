@@ -10,6 +10,9 @@ services:
 markup:
   highlight:
     noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
 params:
   author: Faerie Ring Games
   description: Faerie Ring Games
