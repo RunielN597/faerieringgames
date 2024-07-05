@@ -4,6 +4,7 @@ title: Ley of the Land
 A tile-laying game for 2 players
 
 ## Components
+
 - 81 Land Tiles
 - 1 9 x 9 grid board
 - 1 bag.
@@ -32,8 +33,6 @@ Decide who goes first.
 
 On each player's turn, they may play a tile from their supply to the grid, or pass. Once both players pass in succession, the game ends and the score is counted.
 
-## Gameplay
-
 ### With the Bag
 
 On each player's turn, they first decide whether to play one of the Fairie Ring/Crop Circle tiles to the grid, or draw a land tile from the bag. If they draw a land tile from the bag, they must then play it. If there is no legal move to make with the tile drawn, it is returned to the bag, and the player passes. Once both players pass in succession, the game ends and the score is counted.
@@ -51,3 +50,7 @@ A completed territory is a completely enclosed area made of diamonds, with no fr
 All incomplete territories score zero points. All complete territories score one point per diamond that they are comprised of. If the territory contains a Fairie Ring or Crop Circle, it scores an extra four points.
 
 At the end of the game, the player with the most points wins. If there is a tie, the player who went second wins.
+
+## Credits
+
+

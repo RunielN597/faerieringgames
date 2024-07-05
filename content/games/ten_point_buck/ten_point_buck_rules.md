@@ -65,4 +65,4 @@ After 5 rounds of play, whoever has the most Hunting Points wins. If there is a 
 
 **Editing:** Ragnarr Marksen and Scott Bennett
 
-[pdf](/games/the_channeling/the_channeling_rules.pdf)
+[pdf](/games/ten_point_buck/ten_point_buck_rules.pdf)
