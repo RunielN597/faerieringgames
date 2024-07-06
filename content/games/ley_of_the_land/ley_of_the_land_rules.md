@@ -6,6 +6,15 @@ A tile-laying game for 2 players
 ## Components
 
 - 81 Land Tiles
+  - 18 tiles with one green triangle
+  - 18 with one orange triangle
+  - 24 split in half down the middle
+  - 24 "cross tiles" 
+  - plus one extra as the start tile (so, 25)
+  - and 2 Crop Circle (all yellow)
+  - two Faerie Ring (all green).
+  - 18 + 18 + 24 + 25 + 2 + 2 = 89. 
+  - One tile is the start tile, brings it down to 88. then each player divides the remaining 44 tiles evenly.
 - 1 9 x 9 grid board
 - 1 bag.
 
