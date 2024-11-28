@@ -88,9 +88,11 @@ In case of a tie. Whoever acquired the fewest Magic Circle Cards wins the game. 
 
 The 8 green cards players use to mark the outside of the 4 x 4 grid of Magic Circle Cards, and the cards of each player’s color that they use to move their Druid Tokens across the grid.
 
-## Leyline Path
+### Leyline Path
 
-One of the shortest paths of Magic Circle Cards, starting with the Druid Token the player has just moved and ending with the stationary Druid Token, that… 
+One of the shortest paths of Magic Circle Cards, starting with the Druid Token the player has just moved and ending with the stationary Druid Token.
+
+A Leyline Path… 
 
 - Only moves horizontally and vertically, NOT diagonally.
 - Connects the player’s two Druid Tokens. 
@@ -98,13 +100,13 @@ One of the shortest paths of Magic Circle Cards, starting with the Druid Token t
 
 When channeling Energy Cubes along a Leyline Path, the Magic Circle Cards with Druid Tokens receive additional Energy Cubes, which may lead to Overchanneling. 
 
-## Magic Circle Cards
+### Magic Circle Cards
 
 Each Magic Circle Card has two values on the card. The value made of circles is the card’s Vigor value and the value made of petals is the card’s Splendor value. Each Magic Circle Card has a Vigor of four through seven, and Splendor of four through seven.
 
 ### Energy Cubes
 
-Placed each turn after moving your Druid Token, and removed if both colors exist on a Magic Circle Card. Used to acquire Magic Circle Cards when there is a number of cubes on the Magic Circle Card equal to or greater than its Vigor value, with excess cubes being kept for Overchanneling.
+Placed each turn after moving your Druid Token, and removed if both colors exist on a Magic Circle Card. Energy Cubes acquire Magic Circle Cards when there is a number of Energy Cubes on the Magic Circle Card equal to or greater than the Magic Circle Card’s Vigor value, with excess Energy Cubes being kept as Overchanneling Cubes.
 
 ### Splendor
 
@@ -114,7 +116,7 @@ The number of victory points you get at the end of the game. Represented by inne
 
 How many Energy Cubes must be on a Magic Circle Card at the end of the turn in order to acquire it. Represented by outer circles on Magic Circle Cards.
 
-### Overchanneling
+### Overchanneling Cubes
 
 When a Magic Circle Card is acquired using more Energy Cubes than its Vigor value, the player keeps the excess cubes near the Magic Circle Cards as Overchanneling Cubes. Each Overchanneling Cube reduces the players Splendor by one at the end of the game.
 
