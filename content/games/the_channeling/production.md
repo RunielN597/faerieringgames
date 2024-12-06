@@ -43,9 +43,9 @@ make playing cards - https://www.makeplayingcards.com/design/custom-us-game-deck
 
 
 ![glyph_cards_green_sheet_back.png](./glyph_cards_green_sheet_back.png)
-![glyph_cards_green_sheet_front.png](glyph_cards_green_sheet_front.png)
-![glyph_cards_light_dark_sheet_back.png](glyph_cards_light_dark_sheet_back.png)
-![glyph_cards_light_dark_sheet_front.png](glyph_cards_light_dark_sheet_front.png)
-![magic_circle_cards_sheet_back.png](magic_circle_cards_sheet_back.png)
-![magic_circle_cards_sheet_front_1.png](magic_circle_cards_sheet_front_1.png)
-![magic_circle_cards_sheet_front_2.png](magic_circle_cards_sheet_front_2.png)
+![glyph_cards_green_sheet_front.png](./glyph_cards_green_sheet_front.png)
+![glyph_cards_light_dark_sheet_back.png](./glyph_cards_light_dark_sheet_back.png)
+![glyph_cards_light_dark_sheet_front.png](./glyph_cards_light_dark_sheet_front.png)
+![magic_circle_cards_sheet_back.png](./magic_circle_cards_sheet_back.png)
+![magic_circle_cards_sheet_front_1.png](./magic_circle_cards_sheet_front_1.png)
+![magic_circle_cards_sheet_front_2.png](./magic_circle_cards_sheet_front_2.png)
