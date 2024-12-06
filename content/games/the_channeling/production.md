@@ -39,3 +39,13 @@ good quality I want to go with this!
 make playing cards - https://www.makeplayingcards.com/design/custom-us-game-deck-size-cards.html
 
 16 dollars...
+
+
+
+![glyph_cards_green_sheet_back.png](./glyph_cards_green_sheet_back.png)
+![glyph_cards_green_sheet_front.png](glyph_cards_green_sheet_front.png)
+![glyph_cards_light_dark_sheet_back.png](glyph_cards_light_dark_sheet_back.png)
+![glyph_cards_light_dark_sheet_front.png](glyph_cards_light_dark_sheet_front.png)
+![magic_circle_cards_sheet_back.png](magic_circle_cards_sheet_back.png)
+![magic_circle_cards_sheet_front_1.png](magic_circle_cards_sheet_front_1.png)
+![magic_circle_cards_sheet_front_2.png](magic_circle_cards_sheet_front_2.png)
