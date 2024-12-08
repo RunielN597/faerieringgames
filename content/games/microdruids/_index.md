@@ -61,7 +61,7 @@ Perform one of the following actions at either a Magic Circle or The Grove:
 
 ### Move 
 
-move all standing meeples from either The Grove to a Magic Circle, or all standing meeples from a Magic Circle to another one.
+Move all standing meeples from either The Grove to a Magic Circle, or all standing meeples from a Magic Circle to another one.
 
 ### Channel
 
@@ -69,11 +69,11 @@ Attempt to channel at a Magic Circle.
 
  To do this, roll the three dice. 
 
- Each result equal to or lower than the number of Druids of your color on that Magic Circle is a success.
+ Each result equal to or lower than the number of standing Druids of your color on that Magic Circle is a success.
 
  For each success, place a cube of your color on the Magic Circle.
 
- Then, if there are cubes of both colors at a Magic Circle, remove one cube of each color and return them to the players' supplies until there are only cubes of on color on the Magic Circle.
+ Then, if there are cubes of both colors at a Magic Circle, remove one cube of each color and return them to the players' supplies until there are only cubes of one color on the Magic Circle.
 
 ###  Stun
 
@@ -81,9 +81,9 @@ Attempt to stun the opponent's meeples.
 
  To do this, roll the three dice.
 
- Each result equal to or lower than the number of Druids of your color present at that Magic Circle is a success. 
+ Each result equal to or lower than the number of standing Druids of your color present at that Magic Circle is a success. 
 
- However, you may only count a number of successes equal to the number of Druids you have present at the Magic Circle you are performing this action at. 
+ However, you may only count a number of successes equal to the number of standing Druids you have present at the Magic Circle you are performing this action at. 
 
  **Note you may not Stun at The Grove.**
 
