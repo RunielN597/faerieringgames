@@ -2,7 +2,7 @@
 title: The Channeling Rules
 ---
 
-<i class="fas fa-file-pdf"></i>
+[<i class="fas fa-file-pdf"></i>](/games/the_channeling/the_channeling_rules.pdf)
 
 ## Components
 
