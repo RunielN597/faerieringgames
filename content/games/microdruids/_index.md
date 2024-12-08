@@ -6,6 +6,8 @@ Micro-Druids
 
 A Game for 2 Players
 
+![micro_druids.jpg](/games/micro_druids.jpg)
+
 ## Components
 
 - 12 Druid Meeples (6 Light and 6 Dark)
