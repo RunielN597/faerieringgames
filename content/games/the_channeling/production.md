@@ -31,6 +31,21 @@ made from wood with the shaper origin
 
 https://mixam.com/zines a4 size(4.1 x 5.8 ) minimum order of around 10. Half letter can be used for shorter runs. 
 
+Half Letter
+
+[Affinity Publisher](/games/the_channeling/the_channeling_rules.afpub) 
+
+[the_channeling_rules_cover_front.pdf](/games/the_channeling/the_channeling_rules_cover_front.pdf) 
+
+[the_channeling_rules_cover_front_inside.pdf](/games/the_channeling/the_channeling_rules_cover_front_inside.pdf) 
+
+[the_channeling_rules_cover_back_inside.pdf](/games/the_channeling/the_channeling_rules_cover_back_inside.pdf) 
+
+[the_channeling_rules_cover_back.pdf](/games/the_channeling/the_channeling_rules_cover_back.pdf) 
+
+[the_channeling_rules_book_block.pdf](/games/the_channeling/the_channeling_rules_book_block.pdf) 
+
+
 ## Cards
 
 Print and Play Games

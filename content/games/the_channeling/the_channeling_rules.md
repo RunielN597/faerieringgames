@@ -9,6 +9,8 @@ title: The Channeling Rules
 Your browser does not support the audio element.
 </audio>
 
+A card game for two players.
+
 ## Components
 
 - 30 Magic Circle Cards
