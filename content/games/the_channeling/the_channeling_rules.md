@@ -2,6 +2,8 @@
 title: The Channeling Rules
 ---
 
+<i class="fas fa-file-pdf"></i>
+
 ## Components
 
 - 30 Magic Circle Cards
