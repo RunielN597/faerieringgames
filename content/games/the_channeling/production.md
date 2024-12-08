@@ -12,6 +12,9 @@ title: The Channeling Production
 
 ---
 
+[components]( /games/the_channeling/the_channeling_rules/#components)
+
+
 ## Meeples and Cubes
 
 aliexpress
@@ -27,11 +30,17 @@ cost:
 
 made from wood with the shaper origin
 
+![the_channeling_box](/games/the_channeling/the_channeling_box.svg) 
+
 ## Rulebook
 
-https://mixam.com/zines a4 size(4.1 x 5.8 ) minimum order of around 10. Half letter can be used for shorter runs. 
+https://mixam.com/zines 
 
-Half Letter
+a4 size(4.1 x 5.8 ) minimum order of around 10. Half letter can be used for shorter runs. 
+
+### Half Letter
+
+[Invoice](/games/the_channeling/mixam_zine_invoice.pdf) 
 
 [Affinity Publisher](/games/the_channeling/the_channeling_rules.afpub) 
 
