@@ -4,6 +4,11 @@ title: The Channeling Rules
 
 [<i class="fas fa-file-pdf"></i>](/games/the_channeling/the_channeling_rules.pdf)
 
+<audio controls>
+  <source src="/games/the_channeling/the_channeling_rules.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 ## Components
 
 - 30 Magic Circle Cards
