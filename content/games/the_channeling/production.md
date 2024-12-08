@@ -12,24 +12,28 @@ title: The Channeling Production
 
 ---
 
-## meeples and cubes
+## Meeples and Cubes
 
 aliexpress
 
+[cubes](https://www.aliexpress.us/item/2251832839371497.html?spm=a2g0o.order_list.order_list_main.4.3df31802qGkckA&gatewayAdapt=glo2usa)
 
-## box
+[meeple](https://www.aliexpress.us/item/2255800298606706.html?spm=a2g0o.order_list.order_list_main.10.3df31802qGkckA&gatewayAdapt=glo2usa)
+
+cost: 
+
+
+## Box
 
 made from wood with the shaper origin
 
 ## Rulebook
 
-https://mixam.com/zines a4 size minimum order of around 10 
-
-4.1 x 5.8 
+https://mixam.com/zines a4 size(4.1 x 5.8 ) minimum order of around 10. Half letter can be used for shorter runs. 
 
 ## Cards
 
-print and play games
+Print and Play Games
 
 https://www.printplaygames.com/product/poker-cards/
 
@@ -43,7 +47,9 @@ https://www.printplaygames.com/product/poker-cards/
 
 1/2 sheet of green glyph cards(these are printed 2 to a sheet then divided.
 
-Cost: 5.52 * 3.5 = 19.32
+Cost: $5.52 * 3.5 = $19.32
+
+
 
 ![glyph_cards_green_sheet_back.png](/games/the_channeling/glyph_cards_green_sheet_back.png)
 ![glyph_cards_green_sheet_front.png](/games/the_channeling/glyph_cards_green_sheet_front.png)
