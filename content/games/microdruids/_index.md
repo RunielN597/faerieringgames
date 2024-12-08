@@ -41,7 +41,9 @@ Then, they attempt to channel Energy Cubes onto the Tokens in an attempt to cont
 ### On your turn
 
 Check and see if you win by controlling 2 of 3 Magic Circles.
+
 Perform one of the following actions at either a Magic Circle or The Grove:
+
  - Stand
  - Move
  - Channel
@@ -51,11 +53,19 @@ Perform one of the following actions at either a Magic Circle or The Grove:
 
 ### Actions in Detail
 
- **Stand** - stand a meeple up. If this action was taken at The Grove, you may take a second action, including standing again.  However, only two actions may ever be taken in a turn this way.
+###  Stand
 
-**Move**  - move all standing meeples from either The Grove to a Magic Circle, or all standing meeples from a Magic Circle to another one.
+ **Stand a meeple up.**
 
-**Channel** - Attempt to channel at a Magic Circle. 
+ If this action was taken at The Grove, you may take a second action, including standing again.  However, only two actions may ever be taken in a turn this way.
+
+### Move 
+
+move all standing meeples from either The Grove to a Magic Circle, or all standing meeples from a Magic Circle to another one.
+
+### Channel
+
+Attempt to channel at a Magic Circle. 
 
  To do this, roll the three dice. 
 
@@ -65,7 +75,9 @@ Perform one of the following actions at either a Magic Circle or The Grove:
 
  Then, if there are cubes of both colors at a Magic Circle, remove one cube of each color and return them to the players' supplies until there are only cubes of on color on the Magic Circle.
 
- **Stun** - Attempt to stun the opponent's meeples. 
+###  Stun
+
+Attempt to stun the opponent's meeples. 
 
  To do this, roll the three dice.
 
@@ -77,7 +89,10 @@ Perform one of the following actions at either a Magic Circle or The Grove:
 
  For each success, lay a meeple of your opponent's color at the same Magic Circle down.
 
- **Banish** - Attempt to banish opponent's meeples from a Magic Circle back to The Grove, lying down.
+###  Banish
+
+Attempt to banish opponent's meeples from a Magic Circle back to The Grove, lying down.
+
  To do this, roll the three dice. 
 
  Each 6 is a success.
