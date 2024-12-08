@@ -21,10 +21,11 @@ aliexpress
 
 [cubes](https://www.aliexpress.us/item/2251832839371497.html?spm=a2g0o.order_list.order_list_main.4.3df31802qGkckA&gatewayAdapt=glo2usa)
 
+cost: $3 for 100 cubes
+
 [meeple](https://www.aliexpress.us/item/2255800298606706.html?spm=a2g0o.order_list.order_list_main.10.3df31802qGkckA&gatewayAdapt=glo2usa)
 
-cost: 
-
+cost: $4 for 100 meeples
 
 ## Box
 
@@ -34,13 +35,19 @@ made from wood with the shaper origin
 
 ## Rulebook
 
-https://mixam.com/zines 
+https://mixam.com/zines
 
-a4 size(4.1 x 5.8 ) minimum order of around 10. Half letter can be used for shorter runs. 
+### A4 
+
+a4 size(4.1 x 5.8 ) minimum order of around 10. 
 
 ### Half Letter
 
+Half letter can be used for shorter runs. 
+
 [Invoice](/games/the_channeling/mixam_zine_invoice.pdf) 
+
+cost: $12 for 3 zines.
 
 [Affinity Publisher](/games/the_channeling/the_channeling_rules.afpub) 
 
@@ -76,9 +83,15 @@ Cost: $5.52 * 3.5 = $19.32
 
 
 ![glyph_cards_green_sheet_back.png](/games/the_channeling/glyph_cards_green_sheet_back.png)
+
 ![glyph_cards_green_sheet_front.png](/games/the_channeling/glyph_cards_green_sheet_front.png)
+
 ![glyph_cards_light_dark_sheet_back.png](/games/the_channeling/glyph_cards_light_dark_sheet_back.png)
+
 ![glyph_cards_light_dark_sheet_front.png](/games/the_channeling/glyph_cards_light_dark_sheet_front.png)
+
 ![magic_circle_cards_sheet_back.png](/games/the_channeling/magic_circle_cards_sheet_back.png)
+
 ![magic_circle_cards_sheet_front_1.png](/games/the_channeling/magic_circle_cards_sheet_front_1.png)
+
 ![magic_circle_cards_sheet_front_2.png](/games/the_channeling/magic_circle_cards_sheet_front_2.png)
