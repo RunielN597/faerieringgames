@@ -12,7 +12,7 @@ title: games
 
 [Ten-Point Buck](./ten_point_buck)
 
-[microdruids](./microdruids)
+[Battle for the Grove](./battle_for_the_grove)
 
 
 

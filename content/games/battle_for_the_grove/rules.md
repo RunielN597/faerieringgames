@@ -1,21 +1,19 @@
 ---
-title: Micro Druids
+title: Battle for the Grove Rules
 ---
-
-Micro-Druids 
 
 A Game for 2 Players
 
-![micro_druids.jpg](/games/micro_druids.jpg)
+[pdf]()
 
 ## Components
 
 - 12 Druid Meeples (6 Light and 6 Dark)
 - 3 Magic Circle Tokens
-- 38 Energy Cubes (19 Light, 19 Dark)
-- 3 dice
+- 38 Energy Cubes (19 Light and 19 Dark)
+- 6 dice (3 Light and 3 Dark)
 
-## Object: 
+## Object
 
 - Control At least 2 of the 3 Magic Circle Tokens when your turn starts.
 
@@ -25,9 +23,9 @@ Set the three Magic Circle Tokens in a triangle in the center of the play area, 
 
 Lay down the 12 meeples in the center of the triangle.
 
-Give each player their supply of Energy Cubes.
+Give each player their supply of 19 Energy Cubes.
 
-Determine who goes first by rolling the dice. The player with the highest total goes first.
+Determine who goes first by rolling the 3 dice. The player with the highest total goes first.
 
 
 ### Play Area
@@ -57,7 +55,7 @@ Perform one of the following actions at either a Magic Circle or The Grove:
 
  **Stand a meeple up.**
 
- If this action was taken at The Grove, you may take a second action, including standing again.  However, only two actions may ever be taken in a turn this way.
+If this action was taken at The Grove, you may take a second action, including standing again.  However, only two actions may ever be taken in a turn this way.
 
 ### Move 
 
@@ -67,13 +65,13 @@ Move all standing meeples from either The Grove to a Magic Circle, or all standi
 
 Attempt to channel at a Magic Circle. 
 
- To do this, roll the three dice. 
+To do this, roll the three dice. 
 
- Each result equal to or lower than the number of standing Druids of your color on that Magic Circle is a success.
+Each result equal to or lower than the number of standing Druids of your color on that Magic Circle is a success.
 
- For each success, place a cube of your color on the Magic Circle.
+For each success, place a cube of your color on the Magic Circle.
 
- Then, if there are cubes of both colors at a Magic Circle, remove one cube of each color and return them to the players' supplies until there are only cubes of one color on the Magic Circle.
+Then, if there are cubes of both colors at a Magic Circle, remove one cube of each color and return them to the players' supplies until there are only cubes of one color on the Magic Circle.
 
 ###  Stun
 
