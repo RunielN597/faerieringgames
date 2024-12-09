@@ -3,13 +3,14 @@ title: Battle for the Grove
 # [rules](./rules)
 
 # [production](./production)
+# https://developer.paypal.com/api/nvp-soap/paypal-payments-standard/integration-guide/html-example-buy-now/
 ---
 
 ![micro_druids.jpg](/games/micro_druids.jpg)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post"> 
 <!-- Identify your business so that you can collect the payments. --> 
-<input type="hidden" name="Faerie Ring Games" value="teammagepowerss@gmail.com"> 
+<input type="hidden" name="business" value="teammagepowerss@gmail.com"> 
 <!-- Specify a Buy Now button. --> 
 <input type="hidden" name="cmd" value="_xclick"> 
 <!-- Specify details about the item that buyers will purchase. --> 

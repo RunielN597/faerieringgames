@@ -4,7 +4,7 @@ title: Battle for the Grove Rules
 
 A Game for 2 Players
 
-[pdf]()
+[pdf](/games/battle_for_the_grove/battle_for_the_grove.pdf)
 
 ## Components
 
