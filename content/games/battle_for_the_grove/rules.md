@@ -4,7 +4,13 @@ title: Battle for the Grove Rules
 
 A Game for 2 Players
 
-[pdf](/games/battle_for_the_grove/battle_for_the_grove.pdf)
+[<i class="fas fa-file-pdf"></i>](/games/battle_for_the_grove/battle_for_the_grove.pdf)
+
+<audio controls>
+  <source src="/games/battle_for_the_grove/battle_for_the_grove.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 
 ## Components
 
