@@ -31,6 +31,8 @@ cost: $4 for 100 meeples
 
 made from wood with the shaper origin
 
+https://totalelement.com/collections/countersunk-discs/products/3-8-x-1-8-inch-neodymium-rare-earth-countersunk-ring-magnets-n42-42-pack
+
 ![the_channeling_box](/games/the_channeling/the_channeling_box.svg) 
 
 ## Rulebook
