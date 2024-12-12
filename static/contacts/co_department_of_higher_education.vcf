@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:CO Department of Higher Education
+N:;CO Department of Higher Education;;;
+item1.EMAIL;TYPE=INTERNET: questions@dhe.state.co.us
+item1.X-ABLabel:
+item2.TEL:(303) 862-3001
+item2.X-ABLabel:
+item3.ADR:;Suite 2200;1600 Broadway\,;Denver;CO;80202;US;1600 Broadway\nSui
+ te 2200\, Denver\, CO 80202\nUS
+item3.X-ABLabel:
+item4.URL:https\://cdhe.colorado.gov
+item4.X-ABLabel:
+NOTE:Colorado Department of Higher Education\n\nemail\: questions@dhe.state
+ .co.us
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzFY_YBq3RoqG1R_JrgW-G
+ zj_-lIasSoE42zrP24vspdT9RZWNLb
+CATEGORIES:myContacts
+END:VCARD

@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Guy Reschenthaler
+N:Reschenthaler;Guy ;;;
+item1.TEL:(724) 206-4800
+item1.X-ABLabel:
+item2.ADR:;;14 S Main St;Washington;PA;15301;US;14 S Main St\nWashington\, 
+ PA 15301\nUS
+item2.X-ABLabel:
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzFM-v78Nr_uZH_PnAf34q
+ pt5ONYRGaQpsGbxsfnL-arSjLwC6N4
+CATEGORIES:myContacts
+END:VCARD
