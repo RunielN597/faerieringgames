@@ -14,5 +14,4 @@ title: games
 
 [Battle for the Grove](./battle_for_the_grove)
 
-
-
+[Mint Druids](./mint_druids)
