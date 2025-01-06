@@ -43,7 +43,7 @@ params:
     - name: Github
       icon: fa-brands fa-github
       weight: 3
-      url: https://github.com/sjbennett123/faerieringgames
+      url: https://github.com/RunielN597/faerieringgames
     - name: Github
       icon: fa-solid fa-server
       weight: 4
