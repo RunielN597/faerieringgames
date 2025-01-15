@@ -133,10 +133,12 @@ When a Magic Circle Card is acquired using more Energy Cubes than its Vigor valu
 
 **Design**: Sam Fragello
 
-**Layout**: Scott Bennett
+**Layout**: [Scott Bennett](https://www.scottjbennett.com)
 
-**Card Art**: Kathryn Rose
+**Card Art**: [Kathryn Rose](https://www.instagram.com/burnsbothends)
 
-**Editing**: Ragnarr Marksen and Scott Bennett
+**Editing**: Ragnarr Marksen and [Scott Bennett](https://www.scottjbennett.com)
+
+**Playtesting**: 
 
 Rulebook Ornamentation in public domain by Marie L. Danforth
