@@ -8,20 +8,20 @@ A Card Game for 2-6 Players
 
 Components:
 
-32 Cards and 33 fae cubes.
+One d8 to keep track of rounds, 32 Cards and 33 fae cubes.
 
 The cards are numbered from 0-7, with there being:
 
 - 7 copies of 1 (2 fae)
 - 6 copies of 2 (2 fae)
-- 5 copies of 3 (2 fae)
+- 5 copies of 3 (3 fae)
 - 4 copies of 4 (3 fae)
 - 3 copies of 5 (3 fae)
-- 2 copies of 6 (3 fae)
+- 2 copies of 6 (4 fae)
 - 1 copy of 7 (4 fae)
-- 4 copies of the "stone circle" cards (3 fae)
+- 4 copies of the "stone circle" cards (4 fae)
 
-**Goal**: have the most fae cubes when the supply is exhausted.
+**Goal**: have the most fae cubes after 8 rounds of play. Use the included d8 to keep track of rounds. 
 
 Fae-ker is played in rounds. Each round, one player will earn fae cubes.
 
