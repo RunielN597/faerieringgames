@@ -8,7 +8,7 @@ A Card Game for 2-6 Players
 
 Components:
 
-One d8 to keep track of rounds, 32 Cards and 33 fae cubes.
+One d8 to keep track of rounds, 32 Cards and 40 fae cubes.
 
 The cards are numbered from 0-7, with there being:
 
