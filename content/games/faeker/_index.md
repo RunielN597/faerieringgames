@@ -1,14 +1,15 @@
 ---
 title: Fae-ker
+# https://www.cleanpng.com/png-tabletop-simulator-game-toy-technology-berserk-4341230/download-png.html
 ---
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=3411022136
+[<img src="/images/tabletopsim.png" alt="drawing" width="50"/>](https://steamcommunity.com/sharedfiles/filedetails/?id=3411022136)
 
 "Never lie to a fae."
 
 A Card Game for 2-6 Players
 
-Components:
+## Components:
 
 One d8 to keep track of rounds, 32 Cards and 40 fae cubes.
 
@@ -23,7 +24,9 @@ The cards are numbered from 0-7, with there being:
  - 1 copy of 7 (4 fae)
  - 4 copies of the "stone circle" cards (4 fae)
 
-**Goal**: be the first player to earn the required number of fae cubes.
+## Goal 
+
+Be the first player to earn the required number of fae cubes.
 
  - 2 players: 15
  - 3 players: 12
@@ -53,3 +56,6 @@ If there ever aren't enough cubes in the supply to give, each player gets an equ
 
 If a player is called for a bluff, they reveal their hand. If they were telling the truth, they collect the cubes for the round immediately. If they were lying, the calling player collects the cubes, plus one extra for catching the player in a lie.
 
+[./playtest_notes](./playtest_notes)
+
+![/games/faeker/card.jpg](/games/faeker/card.jpg)
