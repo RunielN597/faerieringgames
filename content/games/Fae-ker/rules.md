@@ -41,7 +41,7 @@ If the top card is a number from 4-7, the players are bidding how many of their 
 
 If the top card is a stone circle, the players are bidding how many of their cards are in sequence, 12, 234, etc.
 
-Stone circle cards: these cards count as being equal to the top card, or as wild cards when used in a sequence.
+Stone circle cards: these cards count as being one more than the top card, or as wild cards when used in a sequence.
 
 During bidding a player may announce any number from 0-5, pass, call a showdown, or call a bluff. But, they do not have to tell the truth about the cards they hold. 
 
