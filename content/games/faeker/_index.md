@@ -14,22 +14,22 @@ One d8 to keep track of rounds, 32 Cards and 40 fae cubes.
 
 The cards are numbered from 0-7, with there being:
 
-- 7 copies of 1 (2 fae)
-- 6 copies of 2 (2 fae)
-- 5 copies of 3 (3 fae)
-- 4 copies of 4 (3 fae)
-- 3 copies of 5 (3 fae)
-- 2 copies of 6 (4 fae)
-- 1 copy of 7 (4 fae)
-- 4 copies of the "stone circle" cards (4 fae)
+ - 7 copies of 1 (2 fae)
+ - 6 copies of 2 (2 fae)
+ - 5 copies of 3 (3 fae)
+ - 4 copies of 4 (3 fae)
+ - 3 copies of 5 (3 fae)
+ - 2 copies of 6 (4 fae)
+ - 1 copy of 7 (4 fae)
+ - 4 copies of the "stone circle" cards (4 fae)
 
 **Goal**: be the first player to earn the required number of fae cubes.
 
-- 2 players: 15
-- 3 players: 12
-- 4 players: 10
-- 5 players: 8
-- 6 players: 6
+ - 2 players: 15
+ - 3 players: 12
+ - 4 players: 10
+ - 5 players: 8
+ - 6 players: 6
 
 Fae-ker is played in rounds. Each round, one player will earn fae cubes.
 

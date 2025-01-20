@@ -2,6 +2,8 @@
 title: games
 ---
 
+[Faeker](./faeker)
+
 [The Channeling](./the_channeling)
 
 [Chalice and Wand](./chalice_and_wand)
