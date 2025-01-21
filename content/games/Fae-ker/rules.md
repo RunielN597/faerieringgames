@@ -10,7 +10,7 @@ A Card Game for 2-6 Players
 
 Components:
 
-One d8 to keep track of rounds, 32 Cards and 40 fae cubes.
+32 Cards and 40 fae cubes.
 
 The cards are numbered from 0-7, with there being:
 
@@ -41,7 +41,7 @@ If the top card is a number from 4-7, the players are bidding how many of their 
 
 If the top card is a stone circle, the players are bidding how many of their cards are in sequence, 12, 234, etc.
 
-Stone circle cards: these cards count as being one more than the top card, or as wild cards when used in a sequence.
+Stone circle cards: these cards count as being one more than= the top card, or as wild cards when used in a sequence.
 
 During bidding a player may announce any number from 0-5, pass, call a showdown, or call a bluff. But, they do not have to tell the truth about the cards they hold. 
 
@@ -53,3 +53,4 @@ If there ever aren't enough cubes in the supply to give, each player gets an equ
 
 If a player is called for a bluff, they reveal their hand. If they were telling the truth, they collect the cubes for the round immediately. If they were lying, the calling player collects the cubes, plus one extra for catching the player in a lie.
 
+**Playtesters:** Ragnarr Marksen
