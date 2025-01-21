@@ -58,10 +58,7 @@ If a player is called for a bluff, they reveal their hand. If they were telling 
 
 **Playtesters:** Ragnarr Marksen
 
-<<<<<<< HEAD:content/games/Fae-ker/rules.md
-
-=======
 [./playtest_notes](./playtest_notes)
 
 ![/games/faeker/card.jpg](/games/faeker/card.jpg)
->>>>>>> d4056f1dab9dd9dd610e44864e558c9300edeb8c:content/games/faeker/_index.md
+
