@@ -23,3 +23,9 @@ Take out ability to call showdown.
 Bids can't match anymore.
 
 Change how jokers function: They look for "red" cards.
+
+# Concerns
+
+ Also, I'm worried that Faeker is just going to turn into Liar's Dice: the Card Game. :/
+
+
