@@ -1,0 +1,22 @@
+
+{{- $dnd_5e_spells := index .Site.Data "dnd_5e_spells" }}
+{{- $dnd_5e_spells := $dnd_5e_spells.spells }}
+
+
+
+{{ range $dnd_5e_spells }}
+<h2>{{ .name }}</h2>
+<p><b>Level:</b> {{ .level }}</p>
+<p><b>Casting Time:</b> {{ .casting_time }}</p>
+<p><b>Range_area:</b> {{ .range_area }}</p>
+<p><b>Components:</b> {{ .components }}</p>
+<p><b>Duration:</b> {{ .duration }}</p>
+<p><b>School:</b> {{ .school }}</p>
+<p><b>Attack/Save:</b> {{ .attack_save }}</p>
+<p><b>Damage/Effect:</b> {{ .damage_effect }}</p>
+<p><b>Description:</b> {{ .description  | markdownify }}</p>
+{{ end }}
+
+{{ .Content }}
+
+

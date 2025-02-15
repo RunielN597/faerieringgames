@@ -1,0 +1,4 @@
+---
+title: status
+layout: spells
+---

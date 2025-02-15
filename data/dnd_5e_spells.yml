@@ -9,10 +9,28 @@ spells:
    attack_save: None
    damage_effect: Utility
    description: >
-     A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
-
-     When you cast the spell, you can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial.
-
-     As a Magic action on your later turns, you can control the hand thus again. As part of that action, you can move the hand up to 30 feet.
-
-     The hand can’t attack, activate magic items, or carry more than 10 pounds.
+      A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
+      
+      When you cast the spell, you can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial.
+      
+      As a Magic action on your later turns, you can control the hand thus again. As part of that action, you can move the hand up to 30 feet.
+      
+      The hand can’t attack, activate magic items, or carry more than 10 pounds.
+ - name: Message 
+   level: Cantrip
+   casting_time: 1 Action
+   range_area: 120 ft
+   components: S, M(a copper wire)
+   duration: 1 Round
+   school: Transmutation
+   attack_save: None
+   damage_effect: Communication (...)
+   description: >
+      You point toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
+      
+      You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence; 1 foot of stone, metal, or wood; or a thin sheet of lead blocks the spell.
+ - name: prestidigitation
+ - name: detect magic
+ - name: comprehend languages
+ - name: magic missile
+ - name: witch bolt
