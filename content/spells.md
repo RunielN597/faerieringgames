@@ -3,6 +3,5 @@ title: Spells
 layout: single
 ---
 
- <link rel="icon" type="image/x-icon" href="/images/dnd.ico">
-
+[pdf](https://www.dropbox.com/scl/fi/vzkm2wx12nf26zjaah1r5/spellbook.pdf?rlkey=ilwzc4p93gho2lqf7k0kxjcu9&dl=0)
 {{< spells >}}
