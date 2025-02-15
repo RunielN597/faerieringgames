@@ -6,6 +6,8 @@
 <h3>By Name</h3>
 <p>{{ range $dnd_5e_spells }} <a href="#{{ .name | title}}">{{ .name | title}}</a> - {{ end }} </p>
 
+<!-- Range over the spells to get all he levels -->
+<!-- then range over them again to print each spell in the section by level -->
 </section>
 
 
@@ -21,7 +23,7 @@
 {{ if eq .level 3}}3rd{{ end }}
 </p>
 <p style="margin-top: -20px;"><b>Casting Time:</b> {{ .casting_time }}</p>
-<p style="margin-top: -20px;"><b>Range_area:</b> {{ .range_area }}</p>
+<p style="margin-top: -20px;"><b>Range/Area:</b> {{ .range_area }}</p>
 <p style="margin-top: -20px;"><b>Components:</b> {{ .components }}</p>
 <p style="margin-top: -20px;"><b>Duration:</b> {{ .duration }}</p>
 <p style="margin-top: -20px;"><b>School:</b> {{ .school }}</p>
