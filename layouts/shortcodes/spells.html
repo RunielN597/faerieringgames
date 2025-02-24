@@ -34,8 +34,7 @@
 <p style="margin-top: -20px;"><b>Attack/Save:</b> {{ .attack_save }}</p>
 <p style="margin-top: -20px;"><b>Damage/Effect:</b> {{ .damage_effect }}</p>
 </div>
-<p><b>Description:</b> {{ .description  | markdownify }}</p>
+<p>{{- .description  | markdownify -}}</p>
 {{ end }}
-
   </div>
 </section>
