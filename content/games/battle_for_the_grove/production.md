@@ -2,7 +2,7 @@
 title: production
 ---
 
-[components](/games/battle_for_the_grove/rules/#components)
+[components](/games/battle_for_the_grove/rules/#components) 
 
 [wood discs](https://www.amazon.com/dp/B0B1TYYWKW/?coliid=I31JDA68STF546&colid=26UJHE4A1MHJW&psc=1&ref_=list_c_wl_gv_ov_lig_pi_dp)
 
@@ -15,5 +15,13 @@ from amazon in a pack of 100 for 14 dollars or 14 cents a disc the game needs 3 
 
 [cubes](https://www.aliexpress.us/item/2251832839371497.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=21840265441&aff_fcid=b9904f904dc144e6a9d80fc61b71c600-1746753413512-05935-_mM1trs3&tt=MG&aff_fsk=_mM1trs3&aff_platform=default&sk=_mM1trs3&aff_trace_key=b9904f904dc144e6a9d80fc61b71c600-1746753413512-05935-_mM1trs3&shareId=21840265441&businessType=ProductDetail&platform=AE&terminal_id=96f57f7c372d48199c67621da8cd8455&afSmartRedirect=y&gatewayAdapt=glo2usa) 
 
+40 cubes a game =  $1.79 a game.
+
 
 [meeples](https://www.aliexpress.us/item/2255800687220015.html?spm=a2g0o.productlist.main.5.27c87c3eRfgH2v&algo_pvid=94223e15-b968-4416-880f-e65a676fca15&algo_exp_id=94223e15-b968-4416-880f-e65a676fca15-4&pdp_ext_f=%7B%22order%22%3A%22163%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%216.99%216.29%21%21%216.99%216.29%21%402101c72a17467536164646060e996f%2112000020019579467%21sea%21US%216237152293%21ABX&curPageLogUid=1JicZKrHV3xO&utparam-url=scene%3Asearch%7Cquery_from%3A)
+
+12.58 for 200 b&w meeples. 12 per game = 38 cents a game. 
+
+
+Total cost $3.07 a game. 
+
