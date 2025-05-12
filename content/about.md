@@ -9,3 +9,5 @@ Faerie Ring Games makes abstract strategy games that stand the test of time. Ext
 **Ragnarr Marksen**: Editor and Consultant.
 
 **Scott Bennett**: Produciton
+
+**Additional Playtesters**: Nick, Jon, Dom
