@@ -1,9 +1,10 @@
+---
 baseURL: https://faerieringgames.com
 title: Faerie ring games
 theme: hugo-coder
 languageCode: en
 defaultContentLanguage: en
-paginate: 6
+pagination.pagerSize: 5
 enableEmoji: true
 services:
   disqus: {}

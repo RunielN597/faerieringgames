@@ -1,5 +1,5 @@
 ---
-title: Minty Druids: Battle for the Grove of Mint Rules
+title: "Minty Druids Battle for the Grove of Mint Rules"
 ---
 
 A Real-Time Game for 2 Players
