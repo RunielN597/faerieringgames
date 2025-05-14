@@ -1,4 +1,6 @@
-Bluffs 
+---
+title: Bluffs
+---
 
 A tile-laying game for 2 players
 
