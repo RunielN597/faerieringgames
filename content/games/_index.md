@@ -19,3 +19,5 @@ title: games
 [Mint Druids](./mint_druids)
 
 [Fever Draft](./fever_draft)
+
+[Bluffs](./bluffs)

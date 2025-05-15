@@ -1,3 +1,4 @@
+---
 spells:
  - name: Mage Hand 
    level: 0
@@ -105,7 +106,7 @@ spells:
    level: 1
    casting_time: 1 action
    range_area: 30 feet
-   components:  V, S, M (a twig from a tree that has been struck by lightning)
+   components: V, S, M (a twig from a tree that has been struck by lightning)
    duration: Concentration, up to 1 minute
    school: Evocation
    attack_save: ranged spell attack

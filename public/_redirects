@@ -1,4 +1,5 @@
 # https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
+/github     https://github.com/RunielN597/faerieringgames
 /trello     https://trello.com/invite/b/9tWcZV6F/ATTI969d1e33c00aed55d5c13658065446302B370FB3/fairy-ring-games
-/todo     https://trello.com/invite/b/9tWcZV6F/ATTI969d1e33c00aed55d5c13658065446302B370FB3/fairy-ring-games
+/todo       /trello
 /discord    https://discord.com/invite/Yh9wqATcJC
