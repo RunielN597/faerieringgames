@@ -9,6 +9,8 @@ A tile-laying game for 2 players
 - 20 Land Tiles; 5 of each type
 - 8 Faerie Cubes
 
+There's 10 with only 1 triangle of each of the two colors on them and 3 of the other, and 10 with 2 of each, which are further divided into "split" tiles and "cross" tiles.
+ 
 ## Goal
 
 Have more points than the opponent when the game ends.
