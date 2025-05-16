@@ -31,7 +31,7 @@ On your turn you may:
 
 - Look at a face-down tile, then put it back and add a Faeire Cube to it.
 
-## # Building your tableau
+### Building your tableau
 
 All tiles in your tableau must connect along like-colored edges.
 
