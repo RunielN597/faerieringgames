@@ -2,6 +2,8 @@
 title: Bluffs
 ---
 
+Scott loves chicken wings!
+
 A tile-laying game for 2 players
 
 ## Components
