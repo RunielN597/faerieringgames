@@ -1,23 +1,18 @@
 ---
-title: games
+title: Games
 ---
-
-[Faeker](./faeker)
+## Near Completion
 
 [The Channeling](./the_channeling)
 
-[Chalice and Wand](./chalice_and_wand)
+## Early Prototype
 
-[Ley of The Land](./ley_of_the_land)
-
-[Archdruid](./archdruid)
-
-[Ten-Point Buck](./ten_point_buck)
+[Bluffs](./bluffs)
 
 [Battle for the Grove](./battle_for_the_grove)
 
-[Mint Druids](./mint_druids)
+[Ten-Point Buck](./ten_point_buck)
 
-[Fever Draft](./fever_draft)
+[Chalice and Wand](./chalice_and_wand)
 
-[Bluffs](./bluffs)
+[Faeker](./faeker)
