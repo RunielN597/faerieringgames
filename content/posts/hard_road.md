@@ -1,5 +1,6 @@
 ---
-title: Blog
+title: A Hard Road
+date: 2025-05-17
 ---
 
 Alright. I just want to say, it's been a hard road that's taken 2 years to walk down, but we're finally getting things done here at Faerie Ring Games.  
