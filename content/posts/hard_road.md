@@ -7,7 +7,7 @@ Alright. I just want to say, it's been a hard road that's taken 2 years to walk 
 
 Currently, all of our games have a nature theme. But if these games become popular, more will be on the way, possibly including other themes.
 
-Our main game, The Channeling, will hopefully be ready to demo and possibly ship in a couple of months. No worrd on the price yet, but I'll do the math on that one day soon. 
+Our main game, The Channeling, will hopefully be ready to demo and possibly ship in a couple of months. No word on the price yet, but I'll do the math on that one day soon. 
 
 The second game, Ten-Point Buck, is my take on a trick-taking card game. I absolutely adore trick-takers, like Euchre, Wizard, and Hearts. So, I figured, why not try and make my own version of one?
 
