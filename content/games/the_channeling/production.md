@@ -97,3 +97,37 @@ Cost: $5.52 * 3.5 = $19.32
 ![magic_circle_cards_sheet_front_1.png](/games/the_channeling/magic_circle_cards_sheet_front_1.png)
 
 ![magic_circle_cards_sheet_front_2.png](/games/the_channeling/magic_circle_cards_sheet_front_2.png)
+
+Math for production:
+
+meeples: 
+
+[meeples](https://www.aliexpress.us/item/3256801439961174.html?spm=a2g0o.productlist.main.1.a6f6opgaopgaol&algo_pvid=43c2c4d0-ce6f-4e23-b0e8-41e841f972ee&algo_exp_id=43c2c4d0-ce6f-4e23-b0e8-41e841f972ee-0&pdp_ext_f=%7B%22order%22%3A%2223%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%219.72%212.72%21%21%219.72%212.72%21%402103205217475372194218536e077b%2112000016873531348%21sea%21US%216237152293%21ABX&curPageLogUid=qlSWnRu4GHHc&utparam-url=scene%3Asearch%7Cquery_from%3A)
+
+19.68 for 200 b&w meeples. 4 meeples a game = 39 cents a game. 
+
+Cubes: 
+
+[cubes](https://www.aliexpress.us/item/2251832839371497.html?spm=a2g0o.productlist.main.1.4424qDKvqDKvwM&algo_pvid=f006deab-9b4d-4cb7-a053-41f1e42d4caa&algo_exp_id=f006deab-9b4d-4cb7-a053-41f1e42d4caa-0&pdp_ext_f=%7B%22order%22%3A%22165%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%213.49%213.49%21%21%213.49%213.49%21%402103244417475377014908317e22cc%2110000001805630428%21sea%21US%216237152293%21ABX&curPageLogUid=7ufr3VcyECkP&utparam-url=scene%3Asearch%7Cquery_from%3A) 
+$7.34 for 200 black and white cubes. 100 cubes a game = 3.67 a game. 
+
+cards:
+
+[cards](https://www.printplaygames.com/product/poker-cards/)
+Cost: $5.52 * 3.5 = $19.32
+
+Rulebook: 
+
+[rulebook](/games/the_channeling/mixam_zine_invoice.pdf)
+
+$4 a zine.
+
+Box:
+
+[Box](/games/the_channeling/mixam_zine_invoice.pdf)
+
+$34.99 for 50 boxes = $0.70 a box. 
+
+Total = 28.08 a game.
+
+Still need to add label, but that shouldn't be that expensive. Possible retail price = $35-40?

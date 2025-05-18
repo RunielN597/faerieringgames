@@ -13,7 +13,7 @@ A card game for two players.
 
 ## Components
 
-- 30 Magic Circle Cards
+- 36 Magic Circle Cards
 - 24 Glyph Cards (3 sets: Light, Dark, and Green of 8 cards)
 - 4 Druid Tokens (2 of Light and Dark)
 - 100 Energy Cubes (50 of Light and Dark)
