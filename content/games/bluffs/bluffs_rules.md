@@ -1,9 +1,6 @@
 ---
 title: Bluffs
 ---
-
-Scott loves chicken wings!
-
 A tile-laying game for 2 players
 
 ## Components
@@ -29,23 +26,20 @@ Decide randomly who goes first.
 
 On your turn you may look at a face-down tile then:
 
-<<<<<<< HEAD
 -Look at a face-down tile, then add it and all Faerie Cubes on it to your tableau. Then, replace the tile with one from the draw stack.
 
--Look at a face-down tile, then put it back if it has no Faerie Cubes on it.   
-=======
+- Look at a face-down tile, then put it back if it has no Faerie Cubes on it.   
 - Add it and all Faerie Cubes on it to your tableau.
 - Put it back.
 - Put it back and add a Faeire Cube to it.
 
 ### Building your tableau
->>>>>>> be8eeb7ff8f08c32d01be02c00a2f1378a96fb75
 
 All tiles in your tableau must connect along like-colored edges.
 
 When adding a tile with Faerie Cubes on it to your tableau, you must place all Faerie Cubes onto a section of colored land, and once placed, they can't be moved.
 
-## Game end
+## Game End
 
 The game ends when the final tile is placed in a player's tableau. Scoring then takes place.
 
