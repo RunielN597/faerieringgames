@@ -1,4 +1,6 @@
 ---
+# to edit the theme colors edit the file
+# \themes\hugo-coder\assets\scss\_variables.scss
 baseURL: https://faerieringgames.com
 title: Faerie ring games
 theme: hugo-coder
@@ -20,7 +22,7 @@ params:
   keywords: go,design,card
   info:
     - Abstract Strategy Games
-  avatarURL: images/frg_logo_small.png
+  avatarURL: faerieringgames_logo_web.png
   dateFormat: January 2, 2006
   since: 2024
   commit: https://github.com/luizdepra/hugo-coder/tree/
