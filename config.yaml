@@ -22,7 +22,7 @@ params:
   keywords: go,design,card
   info:
     - Abstract Strategy Games
-  avatarURL: faerieringgames_logo_web.png
+  avatarURL: images/faerieringgames_logo_web.png
   dateFormat: January 2, 2006
   since: 2024
   commit: https://github.com/luizdepra/hugo-coder/tree/
