@@ -1,6 +1,6 @@
 ---
 spells:
- - name: Mage Hand 
+ - name: Mage Hand
    level: 0
    casting_time: 1 Action
    range_area: 30 ft
@@ -9,6 +9,7 @@ spells:
    school: Conjuration
    attack_save: None
    damage_effect: Utility
+   beyond: https://www.dndbeyond.com/spells/2173-mage-hand
    description: >
       A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
       
@@ -61,6 +62,7 @@ spells:
       *Minor Creation*. You create a nonmagical trinket or an illusory image that can fit in your hand. It lasts until the end of your next turn. A trinket can deal no damage and has no monetary worth.
 
  - name: detect magic
+   beyond: https://www.dndbeyond.com/spells/2065-detect-magic
    concentration: true
    ritual: true
    level: 1
@@ -76,6 +78,7 @@ spells:
      
      The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
  - name: comprehend languages
+   beyond: https://www.dndbeyond.com/spells/2618993-comprehend-languages
    ritual: true
    level: 1
    casting_time: 1 Action Ritual
@@ -88,8 +91,8 @@ spells:
    description: >
      For the duration, you understand the literal meaning of any language that you hear or see signed. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text. This spell doesn’t decode symbols or secret messages.
 
-# https://www.dndbeyond.com/spells/2618993-comprehend-languages
  - name: magic missile
+   beyond: https://www.dndbeyond.com/spells/2176-magic-missile
    level: 1
    casting_time: 1 Action
    range_area: 120 ft
@@ -118,7 +121,7 @@ spells:
     
 
  - name: Burning Hands 
-   # https://www.dndbeyond.com/spells/2021-burning-hands
+   beyond: https://www.dndbeyond.com/spells/2021-burning-hands
    level: 1
    casting_time: 1 Action
    range_area: Self (15 ft )
@@ -134,17 +137,49 @@ spells:
      
      At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
  - name: Alarm
-   level: 1st
-   casting_time: 1 Minute Ritual
+   level: 1
+   casting_time: 1 Minute
+   ritual: true
    range_area: 30 ft (20 ft )
    components: V, S, M (a bell and silver wire)
    duration: 8 Hours
    school: Abjuration
+   beyond: https://www.dndbeyond.com/spells/1991-alarm
    attack_save: None
    damage_effect: Detection
    description: > 
       You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot Cube. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won’t set off the alarm. You also choose whether the alarm is audible or mental:
       
-      Audible Alarm. The alarm produces the sound of a handbell for 10 seconds within 60 feet of the warded area.
       
-      Mental Alarm. You are alerted by a mental ping if you are within 1 mile of the warded area. This ping awakens you if you’re asleep.
+      **Audible Alarm** The alarm produces the sound of a handbell for 10 seconds within 60 feet of the warded area.
+      
+      
+      **Mental Alarm** You are alerted by a mental ping if you are within 1 mile of the warded area. This ping awakens you if you’re asleep.
+ - name: Shield
+   level: 1
+   casting_time: 1 Reaction which you take when you are hit by an attack or targeted by the magic missile spell
+   ritual: true
+   range_area: Self
+   components: V, S
+   duration: 1 Round
+   school: Abjuration
+   beyond: https://www.dndbeyond.com/spells/2247-shield
+   attack_save: None
+   damage_effect: Warding
+   description: > 
+      An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.
+ - name: identify
+   level: 1
+   casting_time: 1 Minute
+   ritual: true
+   range_area: Touch
+   components: V, S, M (a pearl worth 100+ GP)
+   duration: Instantaneous
+   school: Divination
+   beyond: https://www.dndbeyond.com/spells/2619180-identify
+   attack_save: None
+   damage_effect: Detection
+   description: > 
+      You touch an object throughout the spell’s casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell’s name.
+      
+      If you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.

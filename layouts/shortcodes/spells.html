@@ -1,10 +1,14 @@
 {{- $dnd_5e_spells := index .Site.Data "dnd_5e_spells" -}}
-{{- $dnd_5e_spells := $dnd_5e_spells.spells -}}
-{{- $dnd_5e_spells := sort $dnd_5e_spells ".name" "asc"  -}}
+{{- $dnd_5e_spells :=  $dnd_5e_spells.spells -}}
+{{- $dnd_5e_spells := sort $dnd_5e_spells ".name" "asc" -}}
+{{- $dnd_5e_spells_rituals := where $dnd_5e_spells ".ritual" true -}}
 
 <section>
+<h3>Rituals</h3>
+<p>- {{ range $dnd_5e_spells_rituals }} <a href="#{{ .name | title}}">{{ .name | title }}</a> - {{ end }} </p>
+
 <h3>By Name</h3>
-<p>{{ range $dnd_5e_spells }} <a href="#{{ .name | title}}">{{ .name | title}}</a> - {{ end }} </p>
+<p>- {{ range $dnd_5e_spells }} <a href="#{{ .name | title}}">{{ .name | title }}</a> - {{ end }} </p>
 
 <!-- Range over the spells to get all he levels -->
 <!-- then range over them again to print each spell in the section by level -->
@@ -14,7 +18,9 @@
 <section>
   <div class="spells">
 {{ range $dnd_5e_spells }}
+{{ if .beyond }}<a target="_blank" href="{{ .beyond }}">{{ end }}
 <h2  style="text-align:center;"  id="{{ .name | title}}" >{{ .name | title}}</h2>
+{{ if .beyond }}</a>{{ end }}
 <div style="margin: 30px;"> 
 <p style="margin-top: -20px;"><b>Level:</b> 
 {{ if eq .level 0}}Cantrip{{ end }}
@@ -26,6 +32,7 @@
 {{ if eq .level 6}}6th{{ end }}
 
 </p>
+<p style="margin-top: -20px;"><b>Ritual:</b> {{ if eq .ritual true }}True{{ else}}False{{ end}}</p>
 <p style="margin-top: -20px;"><b>Casting Time:</b> {{ .casting_time }}</p>
 <p style="margin-top: -20px;"><b>Range/Area:</b> {{ .range_area }}</p>
 <p style="margin-top: -20px;"><b>Components:</b> {{ .components }}</p>
