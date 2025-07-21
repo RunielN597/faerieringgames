@@ -18,7 +18,7 @@ Unfortunately, their minimum print runs are too much to produce the game with th
 Currently, we're trying to get the website updated, which is why you're seeing this blog post.
 
 My friend Scott is working on a "premium box" to sell some copies of the game in. But they're going to be in short supply. Only about 5 or so. 
-THe rest of the games are going to be packaged in small cardboard boxes, about 8.5" x 5.5", to accomodate the rulebook.
+The rest of the games are going to be packaged in small cardboard boxes, about 8.5" x 5.5", to accomodate the rulebook.
 
 After we finish the first small run of The Channeling, we may decide to finish the other designs mentionedd in the previous blog post. Battle for the Grove is simple in components, and Ten-Point-Buck is just a deck of cards.
 
