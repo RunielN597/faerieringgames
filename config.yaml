@@ -48,9 +48,13 @@ params:
       weight: 3
       url: https://github.com/RunielN597/faerieringgames
     - name: Youtube
-      icon: fab fa-youtube
+      icon: fas fa-envelope-open
       weight: 4
       url: https://faerieringgames.com/youtube
+    - name: Youtube
+      icon: fab fa-youtube
+      weight: 4
+      url: https://faerieringgames.com/mailinglist
 taxonomies:
   category: categories
   series: series
