@@ -1,5 +1,6 @@
 ---
 title: cards
+draft: true
 ---
 
 |Vigor(outside circles)|Splendor(inside pedals)|quantity|
