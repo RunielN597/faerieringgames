@@ -27,15 +27,15 @@ After each player places a bid, play begins with the lead going to the player on
 
 ## Tricks
 
-The leading player plays a card to the table, and then the next player clockwise, and so on until each player has played a card. Whoever plays the highest card of the trump suit wins the trick, and if a trick contains no trump cards, whoever played the highest normal card wins the trick; the winner gathers all the cards played to their score pile. If there is a tie between normal cards, whoever played the first card of the highest rank played wins the trick. Then whoever won the trick takes the lead for the next trick.
+The leading player plays a card to the table, and then the next player clockwise, and so on until each player has played a card. Whoever plays the highest card of the trump suit wins the trick, and if a trick contains no trump cards, whoever played the highest normal card wins the trick. The winner gathers all the cards played to their score pile. If there is a tie between normal cards, whoever played the first card of the highest rank played wins the trick. Then whoever won the trick takes the lead for the next trick.
 
 ## Legal Plays
 
-A player may not choose to play a card to the trick if there is already a card of that rank in the trick, unless it is their only available option. For example, if a player plays a normal card with a value of 8 to the trick, another player cannot play another 8 to the trick, including the 8 of trump, unless that player has no other option. 
+A player may **not** choose to play a card to the trick if there is already a card of that rank in the trick, unless it is their only available option. For example, if a player plays a normal card with a value of 8 to the trick, another player cannot play another 8 to the trick, including the 8 of trump, unless that player has no other option. 
 
 ## The Doe
 
-The Doe card is normally worth zero when playing to a trick; however, note that it is still a trump card that will take a trick if all the other cards played in the trick are normal. Also, if the Doe and the Ten-Point Buck are played to the same trick, then the Doe card wins the trick. The player who won this trick also immediately scores 2 Hunting Points.
+The Doe card is normally worth zero when playing to a trick. However, note that it is still a trump card that will take a trick if all the other cards played in the trick are normal. Also, if the Doe and the Ten-Point Buck are played to the same trick, then the Doe card wins the trick. The player who won this trick also immediately scores 2 Hunting Points.
 
 ## Scoring
 
