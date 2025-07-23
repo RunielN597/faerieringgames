@@ -50,11 +50,11 @@ params:
     - name: Youtube
       icon: fas fa-envelope-open
       weight: 4
-      url: https://faerieringgames.com/youtube
+      url: https://faerieringgames.com/mailinglist
     - name: Youtube
       icon: fab fa-youtube
       weight: 4
-      url: https://faerieringgames.com/mailinglist
+      url: https://faerieringgames.com/youtube
 taxonomies:
   category: categories
   series: series
