@@ -21,5 +21,9 @@ title: the channeling
 <input type="image" name="submit" border="0" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" alt="Buy Now"> 
 <img alt="" border="0" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" > 
 </form>
+A game for two players. 
 
-The Channeling is a card game for two players. In it, players are druids channeling magical energy across leyline paths in order to acquire faerie rings and stone circles that lie in a grid of forest cards. The rules are simple - play a glyph card, move one of your druids, and channel energy in the shortest path between your two druids. But, be careful not to overchannel the locations of the forest with energy! Whoever has more Splendor at the end of the game wins.
+Players are druids channeling magical energy across leyline paths to acquire Magic Circles that lie in a grid.
+
+The rules are simple… play a glyph card, move one of your druids, and channel energy in the shortest path between your two druids. But be careful not to overchannel the locations of the forest with energy! 
+Whoever has more Splendor at the end of the game wins.
