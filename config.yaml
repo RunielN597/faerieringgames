@@ -38,19 +38,19 @@ params:
     - name: Trello
       icon: fa-brands fa-trello
       weight: 1
-      url: https://faerieringgames.netlify.app/trello
+      url: https://faerieringgames.com/trello
     - name: Discord
       icon: fa-brands fa-discord
       weight: 2
-      url: https://faerieringgames.netlify.app/discord
+      url: https://faerieringgames.com/discord
     - name: Github
       icon: fa-brands fa-github
       weight: 3
       url: https://github.com/RunielN597/faerieringgames
-    - name: Github
-      icon: fa-solid fa-server
+    - name: Youtube
+      icon: fab fa-youtube
       weight: 4
-      url: https://app.netlify.com/sites/faerieringgames/overview
+      url: https://faerieringgames.com/youtube
 taxonomies:
   category: categories
   series: series
