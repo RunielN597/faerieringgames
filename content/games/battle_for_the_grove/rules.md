@@ -21,7 +21,7 @@ Your browser does not support the audio element.
 
 ## Object
 
-- Control At least 2 of the 3 Magic Circle Tokens when your turn starts.
+- Control at least 2 of the 3 Magic Circle Tokens when your turn starts.
 
 ### Setup
 
