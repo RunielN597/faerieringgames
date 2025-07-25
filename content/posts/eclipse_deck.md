@@ -9,7 +9,7 @@ It's only 34 cards, with three suits of 11 cards, plus one extra card.
 
 The three suits are suns, moons, *and* sun and moon, together. 
 
-What makes rhis deck unique, you may ask? Well, apart from being a shortened deck of cards, the cards have different numbers on them.
+What makes this deck unique, you may ask? Well, apart from being a shortened deck of cards, the cards have different numbers on them.
 
 The sun and moon suits are numbered from 1-11...but the "eclipse" suit is numbered not only from 1-11, but 12-22. 
 
