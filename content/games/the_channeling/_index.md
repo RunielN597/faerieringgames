@@ -1,12 +1,13 @@
 ---
 title: the channeling
+# [<img  src="/images/tabletopsim.png" width="25" height="25"> Tabletop Simulator](/games/the_channeling/the_channeling_rules_tts)
+
 ---
 
 ![The Channeling ](/images/the_channeling/full_game.jpg)
 
 [<i class="fa-solid fa-file-pdf"></i> Rules PDF](./the_channeling_rules_pdf)
 
-[<img  src="/images/tabletopsim.png" width="25" height="25"> Tabletop Simulator](/games/the_channeling/the_channeling_rules_tts)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post"> 
 <!-- Identify your business so that you can collect the payments. --> 
