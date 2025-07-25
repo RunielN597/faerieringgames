@@ -3,7 +3,7 @@ title: The Channeling Rules
 date: 2025-07-23
 ---
 
-[<i class="fas fa-file-pdf"></i>](/games/the_channeling/the_channeling_rules.pdf)
+[<i class="fas fa-file-pdf"></i>](/games/the_channeling/the_channeling_rules_pdf)
 
 <audio controls>
   <source src="/games/the_channeling/the_channeling_rules.mp3" type="audio/mpeg">
