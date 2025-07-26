@@ -9,7 +9,6 @@ date: 2025-07-23
   <source src="/games/the_channeling/the_channeling_rules.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
-The Channeling
 
 A Game for Two Players
 
@@ -26,9 +25,9 @@ Have more Splendor than the opponent when the game ends.
 
 ## Setup
 
-Players choose randomly who will play as Light and who as Dark. 
+Players choose randomly who will play as Light and who as Dark.
 
-Give each player: 
+Give each player:
 
 - One set of 8 different Glyph Cards of their color. This becomes their hand.
 - Two Druid Tokens of their color.
@@ -56,7 +55,8 @@ Play begins with Light.
 4.	Remove Energy Cubes on Magic Circle Cards along the chosen Leyline Path.
 5.	Acquire Magic Circle Cards for Splendor.
 6.	Check for Endgame.
-   Once a player completes the 6th step in their turn, play passes to the other player. 
+
+Once a player completes the 6th step in their turn, play passes to the other player.
 
 ### 1 - Play a Glyph Card
 
@@ -68,10 +68,10 @@ The player moves one Druid Token from one Magic Circle Card to a different Magic
 
 ### 3 - Place Energy Cubes on Magic Circle Cards along a Leyline Path
 
-Starting with the Druid Token the player just moved and ending with the player’s second Druid Token, the player places Energy Cubes on cards along the Leyline Path for this turn. 
+Starting with the Druid Token the player just moved and ending with the player’s second Druid Token, the player places Energy Cubes on cards along the Leyline Path for this turn.
 
 - 3 Cubes are placed on the Magic Circle Card that has the Druid Token that moved this turn.
-- 2 Cubes are placed on the Magic Circle Card with the Druid Token that was stationary this turn. 
+- 2 Cubes are placed on the Magic Circle Card with the Druid Token that was stationary this turn.
 - 1 Cube is placed on each additional Magic Circle Card along the chosen Leyline Path.
 
 ### 4 - Remove Energy Cubes on Magic Circle Cards along the chosen Leyline Path
@@ -89,18 +89,18 @@ The player then places a number of Energy Cubes equal to the Magic Carcle Card�
 Play continues until one player acquires at least seven Magic Circle Cards. This triggers the end of the game; the other player gets one additional turn, and then the game ends. Whoever has the most Splendor from acquiring Magic Circle Cards after taking into account Overchanneling Cubes wins the game.
 In case of a tie…
 
-- Whoever acquired the fewest Magic Circle Cards wins 
+- Whoever acquired the fewest Magic Circle Cards wins.
 - If there is still a tie, whoever went second wins.
 
 ## Game Terms
 
 **Glyph Cards:** The 8 green cards used to mark the outside of the 4 x 4 grid of Magic Circle Cards, and the cards of each player’s color that comprise their hand that they use to move their Druid Tokens across the grid.
 
-**Leyline Path:** One of the shortest paths of Magic Circle Cards, starting with the Druid Token the player has just moved and ending with the stationary Druid Token. A Leyline Path… 
+**Leyline Path:** One of the shortest paths of Magic Circle Cards, starting with the Druid Token the player has just moved and ending with the stationary Druid Token. A Leyline Path…
 
 - Only moves horizontally and vertically, NOT diagonally.
-- Connects the player’s two Druid Tokens. 
-- Is the shortest path between two Druid Tokens. 
+- Connects the player’s two Druid Tokens.
+- Is the shortest path between two Druid Tokens.
 
 When channeling Energy Cubes along a Leyline Path, the Magic Circle Cards with Druid Tokens receive additional Energy Cubes, which may lead to Overchanneling.
 
