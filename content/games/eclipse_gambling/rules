@@ -1,0 +1,38 @@
+Eclipse - a gambling game for 2-5 players.
+
+Components - the Eclipse Deck, which is 2 suits, suns and moons, labeled from 1-9 in each suit.
+You will also need chips to bet with. White Chips are worth 1 and red chips are worth 5. 
+
+Setup: Shuffle the deck. Then deal one card to the center of the table and:
+- Three cards to each player in a 2 player game.
+- Three cards to each player in a 3 player game.
+- Two cards to each player in a 4 player game. 
+- Two cards to each player in a 5 player game, except the dealer, who only receives one.
+
+Each player antes one chip. 
+
+Goal: to be the last player left in the round. This player collects the pot of chips at the end of the round.
+
+Action begins with the player on dealer's left. 
+
+On your turn, you may either:
+
+Pay one or more chips to the pot according to the current stake.
+Fold and pay nothing to drop out of the round. 
+Raise the stakes and pay any number of chips equal to or less than the number of cards currently on the table.
+
+Once the stakes have been raised, you must either pay the number of chips the last player to pay chips paid, raise again, or fold.
+
+After each action that wasn't folding, flip one card over from the deck. 
+
+If the card is of the opposite suit than the last card, the player antes 1 chip to the pot. 
+
+Then, action resumes with the player to the left.
+
+If, after taking an action that wasn't folding, the card flipped matches any other card on the table in rank, the player busts and is out of the round. 
+
+Whoever is left at the end of the round collects the pot. If the end of the deck is ever reached, players split the pot evenly.
+
+Play additional rounds until the players decide to stop. 
+
+
