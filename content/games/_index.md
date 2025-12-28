@@ -5,6 +5,8 @@ title: Games
 
 [The Channeling](./the_channeling)
 
+![The Channeling](/images/the_channeling/full_game.jpg)
+
 ## Early Prototype
 
 [Bluffs](./bluffs)
