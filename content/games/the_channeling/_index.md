@@ -1,5 +1,5 @@
 ---
-title: the channeling
+title: The Channeling
 layout: single
 # [<img  src="/images/tabletopsim.png" width="25" height="25"> Tabletop Simulator](/games/the_channeling/the_channeling_rules_tts)
 
