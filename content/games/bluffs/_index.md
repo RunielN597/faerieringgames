@@ -3,6 +3,6 @@ title: bluffs
 layout: single
 ---
 
-[Production](./_production)
+[Production](./production)
 
 [Rules](./bluffs_rules)
