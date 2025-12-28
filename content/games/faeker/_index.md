@@ -1,5 +1,6 @@
 ---
 title: Fae-ker
+layout: single
 # https://www.cleanpng.com/png-tabletop-simulator-game-toy-technology-berserk-4341230/download-png.html
 ---
 
