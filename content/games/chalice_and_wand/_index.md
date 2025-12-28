@@ -1,5 +1,6 @@
 ---
 title: Chalice and Wand
+layout: single
 ---
 
 It's a 2-player cooperative game, and the only cards in the deck are silver chalices and oak wands with different values from 1 to 10 on them, say, 3 copies of each for a 60 card deck. 

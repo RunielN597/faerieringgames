@@ -1,5 +1,6 @@
 ---
 title: bluffs production
+layout: single
 ---
 
 he first 4 tiles are all that's included. 5 copies of each of those fit on one tile sheet from Print Play Games.

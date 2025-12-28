@@ -1,5 +1,6 @@
- ---
+---
 title: Ten-Point Buck Rules
+
 ---
 
 A Trick-Taking Game for Three to Five Players
