@@ -23,6 +23,9 @@ layout: single
 <input type="image" name="submit" border="0" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" alt="Buy Now"> 
 <img alt="" border="0" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" > 
 </form>
+
+![Tabletop Simulator Link](https://steamcommunity.com/sharedfiles/filedetails/?id=3531679167)
+
 A game for two players. 
 
 Players are druids channeling magical energy across leyline paths to acquire Magic Circles that lie in a grid.
