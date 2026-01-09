@@ -26,9 +26,9 @@ Decide randomly who goes first.
 
 On your turn you may look at a face-down tile then:
 
--Look at a face-down tile, then add it and all Faerie Cubes on it to your tableau. Then, replace the tile with one from the draw stack.
+- Add it and all Faerie Cubes on it to your tableau. Then, replace the tile with one from the draw stack.
 
-- Look at a face-down tile, then put it back if it has no Faerie Cubes on it.   
+- Put it back if it has no Faerie Cubes on it.   
 - Add it and all Faerie Cubes on it to your tableau.
 - Put it back.
 - Put it back and add a Faeire Cube to it.
