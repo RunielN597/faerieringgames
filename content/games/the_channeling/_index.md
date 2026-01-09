@@ -5,7 +5,7 @@ layout: single
 
 ---
 
-![The Channeling ](/images/the_channeling/full_game.jpg)
+![The Channeling](/images/the_channeling/full_game.jpg)
 
 [<i class="fa-solid fa-file-pdf"></i> Rules PDF](./the_channeling_rules_pdf)
 
@@ -24,7 +24,8 @@ layout: single
 <img alt="" border="0" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" > 
 </form>
 
-![Tabletop Simulator Link](https://steamcommunity.com/sharedfiles/filedetails/?id=3531679167)
+Tabletop Simulator Link
+https://steamcommunity.com/sharedfiles/filedetails/?id=3531679167
 
 A game for two players. 
 
