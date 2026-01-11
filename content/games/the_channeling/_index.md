@@ -17,7 +17,7 @@ layout: single
 <input type="hidden" name="cmd" value="_xclick"> 
 <!-- Specify details about the item that buyers will purchase. --> 
 <input type="hidden" name="item_name" value="The Channeling"> 
-<input type="hidden" name="amount" value="35.00">
+<input type="hidden" name="amount" value="45.00">
 <input type="hidden" name="currency_code" value="USD">
 <!-- Display the payment button. -->
 <input type="image" name="submit" border="0" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" alt="Buy Now"> 

@@ -16,3 +16,4 @@ resources/
 *.afphoto~lock~
 .gitattributes~
 *.rpp-bak
+*.swp
