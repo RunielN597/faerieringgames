@@ -1,11 +1,10 @@
 ---
 title: Games
 ---
-## Near Completion
 
 [The Channeling](./the_channeling)
 
-![The Channeling](/images/the_channeling/full_game.jpg)
+## Near Completion
 
 ## Early Prototype
 
