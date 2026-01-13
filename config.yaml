@@ -20,8 +20,7 @@ params:
   author: Faerie Ring Games
   description: Faerie Ring Games
   keywords: go,design,card
-  info:
-    - Abstract Strategy Games
+  info: Faerie Ring Games makes fun board and card games. 
   avatarURL: images/faerieringgames_logo.gif
   dateFormat: January 2, 2006
   since: 2024
@@ -35,26 +34,14 @@ params:
   customJS: []
   customRemoteJS: []
   social:
-    - name: Trello
-      icon: fa-brands fa-trello
-      weight: 1
-      url: https://faerieringgames.com/trello
     - name: Discord
       icon: fa-brands fa-discord
       weight: 2
       url: https://faerieringgames.com/discord
-    - name: Github
-      icon: fa-brands fa-github
-      weight: 3
-      url: https://github.com/RunielN597/faerieringgames
-    - name: Youtube
+    - name: Mailing List
       icon: fas fa-envelope-open
       weight: 4
       url: https://faerieringgames.com/mailinglist
-    - name: Youtube
-      icon: fab fa-youtube
-      weight: 4
-      url: https://faerieringgames.com/youtube
 taxonomies:
   category: categories
   series: series
