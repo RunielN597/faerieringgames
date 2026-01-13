@@ -1,13 +1,15 @@
-Stargazers 
+---
+title: Stargazers
+---
 
 A microgame for 2 players. 
 
-Components:
+**Components**:
 
-18 cards, numbered from 1-9 in suns and moons.
-12 meeples, 6 light and 6 dark.
+- 18 cards, numbered from 1-9 in suns and moons.
+- 12 meeples, 6 light and 6 dark.
 
-Setup:
+**Setup**:
 
 Choose a start player. Give each player their 6 meeples.
 
@@ -19,7 +21,7 @@ On your turn, you must play a card to the grid in an orthogonal space.
 
 Then, you may place meeples on the cards in the row or column of the card you just played. 
 
-Scoring:
+**Scoring**:
 
 If two cards lie next to each other (including diagonals) and their total is 9-11, you score a point. 
 
