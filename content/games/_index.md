@@ -1,13 +1,14 @@
 ---
 title: Games
 ---
-## Near Completion
 
 [The Channeling](./the_channeling)
 
-![The Channeling](/images/the_channeling/full_game.jpg)
+## Near Completion
 
 ## Early Prototype
+
+[Stargazers](./stargazers)
 
 [Bluffs](./bluffs)
 
@@ -18,3 +19,4 @@ title: Games
 [Chalice and Wand](./chalice_and_wand)
 
 [Faeker](./faeker)
+
