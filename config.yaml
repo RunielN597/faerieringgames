@@ -42,6 +42,10 @@ params:
       icon: fas fa-envelope-open
       weight: 4
       url: https://faerieringgames.com/mailinglist
+    - name: Feedback
+      icon: fas fa-comment-dots
+      weight: 4
+      url: https://faerieringgames.com/feedback
 taxonomies:
   category: categories
   series: series
