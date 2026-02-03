@@ -1,5 +1,6 @@
 ---
 title: Playtest Feedback Form
+draft: true
 # http://faerieringgames.com/feedback_pdf
 # Form
 # https://docs.google.com/forms/d/1JG75gTfTNsQsw9Oa5GA9mZVhMv8Af0a76qSYnWRgNzw
