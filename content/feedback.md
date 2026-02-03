@@ -1,6 +1,12 @@
 ---
-title: PLAYTEST FEEDBACK FORM
+title: Playtest Feedback Form
 # http://faerieringgames.com/feedback_pdf
+# Form
+# https://docs.google.com/forms/d/1JG75gTfTNsQsw9Oa5GA9mZVhMv8Af0a76qSYnWRgNzw
+# Responder Link
+# https://docs.google.com/forms/d/e/1FAIpQLSdvNijZZKG_9uQ0HTfhpIQQpgkOB6lY4tRxBbwGxY_snWlfeg/viewform?usp=sharing&ouid=101502754759721468932
+# Results
+# https://docs.google.com/spreadsheets/d/1zgRoWqiCCSb8K-_Ztd3dQSktsIhTZhbTvF_uPVN_sp0/edit?resourcekey&usp=forms_web_b&urp=linked#gid=838364209
 ---
 Game Name
 Player Name
